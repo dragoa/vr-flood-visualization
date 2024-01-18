@@ -1,4 +1,3 @@
-
 ### User Requirements Specification Document
 ##### DIBRIS – Università di Genova. Scuola Politecnica, Software Engineering Course 80154
 
@@ -83,11 +82,17 @@ YYYY
 
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 |  XXXXX |M|
+| 1.0 | The user should be able to obtain a 3D environment from a set of layers in a WASDI workspace. |M|
+| 2.0 | The user should be able to view an animation of the evolution of the phenomenon. |M|
+| 3.0 | The system should generate as output a video of the evolution of the phenomenon in an automatic way. |D|
+
 
 <a name="sp3.3"></a>
 ### 3.2 Non-Functional Requirements 
  
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
-| 1.0 | XXXXX |M|
+| 1.0 | The 3D environment should be generated in a non-interactive (automated) way. |M|
+| 2.0 | The 3D environment should be explorable in an interactive way (virtual walk/flight), zoom in/out, pan, tilt... |M|
+| 3.0 | The 3D environment should be served in a Web page. |M|
+| 4.0 | The system can run in any environment, it doesn't need to be a WASDI application. |M|
