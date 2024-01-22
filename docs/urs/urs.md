@@ -2,7 +2,7 @@
 ##### DIBRIS – Università di Genova. Scuola Politecnica, Virtual Reality Course
 
 
-**VERSION : X.X**
+**VERSION : 1.0**
 
 **Authors**  
 Alessandro Drago
