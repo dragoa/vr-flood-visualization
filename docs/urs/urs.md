@@ -59,7 +59,7 @@ This paper introduces the Requirements Analysis for the Virtual Reality course o
 
 ### 1.3 References 
 1. [WASDI Docs](https://wasdi.readthedocs.io/en/latest/index.html)
-2. [WASDI Youtube Channel]()
+2. [WASDI Youtube Channel](https://www.youtube.com/@wasdi3874/featured)
 
 <a name="p2"></a>
 
