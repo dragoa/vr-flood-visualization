@@ -72,10 +72,15 @@ The company would like a new software that can, starting from an area of interes
 The project aims to ease the communication of the results of the applications so that decision makers can better understand the phenomena they are dealing with.
 
 ### 2.1 Context and Motivation
+WASDI can provide as a Digital Elevation Model (DEM) from Copernicus with a resolution of 30 m, accessible for every location in the world. 
+Also we have access to a water depth color maps that represent the extensions of floods in a specific area. These data are originated using an algorithm, but we still should clarify how it works. <br>
 
 <a name="sp2.2"></a>
 
 ### 2.2 Project Obectives 
+Using the DEM and the water depth, the company would like a software that can, starting from an area of interest, generate a 3D view of that area and in case of floods, represent the evolution of them. <br>
+We shall also consider different type of inputs, such as Cesium 3D tiles, and technologies we can work with. 
+The company requires a non interective way for generating the 3D view, just a set of parameters, for example a bounding-box, crs, input layers, ecc...
 
 <a name="p3"></a>
 
