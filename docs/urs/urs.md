@@ -1,18 +1,17 @@
 ### User Requirements Specification Document
-##### DIBRIS – Università di Genova. Scuola Politecnica, Software Engineering Course 80154
+##### DIBRIS – Università di Genova. Scuola Politecnica, Virtual Reality Course
 
 
 **VERSION : X.X**
 
 **Authors**  
-XXXX
-YYYY
+Alessandro Drago
 
 **REVISION HISTORY**
 
 | Version    | Date        | Authors      | Notes        |
 | ----------- | ----------- | ----------- | ----------- |
-| X.X |  | |  |
+| 1.0 | 22/01/2024 | Alessandro Drago | Given a first description of the project, and explained the requirements for the project. |
 
 # Table of Contents
 
