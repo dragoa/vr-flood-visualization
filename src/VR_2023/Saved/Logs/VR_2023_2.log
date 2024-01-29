@@ -1251,3 +1251,82 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.01.29-09.25.30:752][943]LogSlate: Window 'Project Settings' being destroyed
 [2024.01.29-09.25.30:756][943]LogSlate: Window 'Project Settings' being destroyed
 [2024.01.29-09.25.38:486][858]LogEditorViewport: Clicking Background
+[2024.01.29-09.28.20:978][421]LogSlate: Window 'Save Level As' being destroyed
+[2024.01.29-09.28.21:050][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-09.28.21:063][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.29-09.28.21:067][421]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-09.28.21:067][421]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMap06DD2D3C4AE52A939B3651B7FC3DF5BC.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-09.28.21:083][421]LogFileHelpers: Saving map 'NewMap' took 0.098
+[2024.01.29-09.28.21:084][421]Cmd: MAP LOAD FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.29-09.28.21:084][421]LightingResults: New page: Lighting Build
+[2024.01.29-09.28.21:084][421]LoadErrors: New page: Loading map: NewMap.umap
+[2024.01.29-09.28.21:093][421]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-09.28.21:093][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-09.28.21:093][421]MapCheck: New page: Map Check
+[2024.01.29-09.28.21:093][421]LightingResults: New page: Lighting Build
+[2024.01.29-09.28.21:095][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-09.28.21:096][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.29-09.28.21:099][421]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2024.01.29-09.28.21:099][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-09.28.21:099][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-09.28.21:100][421]LogAIModule: Creating AISystem for world NewMap
+[2024.01.29-09.28.21:121][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.29-09.28.21:125][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.29-09.28.21:127][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.29-09.28.21:127][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2024.01.29-09.28.21:128][421]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-09.28.21:128][421]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.01.29-09.29.01:472][324]LogSlate: External Image Picker: DecompressImage failed
+[2024.01.29-09.29.29:669][507]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.29-09.29.38:794][555]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.29-09.29.38:797][555]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.29-09.29.46:354][806]LogWindows: LaunchURL https://ion.cesium.com/oauth?response_type=code&client_id=190&scope=assets:list%20assets:read%20profile:read%20tokens:read%20tokens:write%20geocode&redirect_uri=http://127.0.0.1:49897/cesium-for-unreal/oauth2/callback&state=Z8rdF6jbIT4ZAr9NP1lsKxFQ24bakL69eTPzAcouVck&code_challenge_method=S256&code_challenge=VbbEvzzMU0mpf30fZFiVZs8Ysb6EDES5p8i16IkZFko
+[2024.01.29-09.30.41:845][396]LogSlate: Window 'Select a Cesium ion Token' being destroyed
+[2024.01.29-09.31.25:136][857]LogCesiumEditor: Warning: Authorizing the project's default Cesium ion token to access the following asset IDs: 2
+[2024.01.29-09.31.25:895][948]LogEditor: Attempting to add actor of class 'Cesium3DTileset' to level at 0.00,0.00,0.00
+[2024.01.29-09.31.25:930][948]LogCesium: Loading tileset for asset ID 0
+[2024.01.29-09.31.25:930][948]LogCesium: Loading tileset for asset ID 0 done
+[2024.01.29-09.31.25:956][948]LogCesium: Loading tileset for asset ID 1
+[2024.01.29-09.31.25:956][948]LogCesium: Loading tileset for asset ID 1 done
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: ================================================
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Total job queries 1,175, among them cache hits 0 (0.00%)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Tracking 1,164 distinct input hashes that result in 687 distinct outputs (59.02%)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: RAM used: 16.78 MiB of 1.60 GiB budget. Usage: 1.02%
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Shaders Compiled: 1,164
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Jobs assigned 1,171, completed 1,164 (99.40%)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Average time worker was idle: 43.04 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Time job spent in pending queue: average 9.65 s, longest 21.18 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Job execution time: average 1.79 s, max 4.46 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Job life time (pending + execution): average 11.50 s, max 21.49
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Shader code size: average 36.905 KiB, min 2.262 KiB, max 75.535 KiB
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.89 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Jobs were issued in 173 batches (only local compilation was used), average 6.77 jobs/batch
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Average processing rate: 46.76 jobs/sec
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Total thread time: 207.057 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Total thread preprocess time: 16.385 s
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Percentage time preprocessing: 7.91%
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Effective parallelization: 8.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   32 times, average 0.59 sec, max 1.04 sec, min 0.32 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                               FHWRasterizeMS (compiled   12 times, average 0.29 sec, max 0.34 sec, min 0.23 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   11 times, average 0.27 sec, max 0.80 sec, min 0.19 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   11 times, average 0.27 sec, max 0.83 sec, min 0.16 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.05% of total time (compiled   32 times, average 0.59 sec, max 1.04 sec, min 0.32 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.89% of total time (compiled   40 times, average 0.20 sec, max 0.79 sec, min 0.12 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.23% of total time (compiled   29 times, average 0.23 sec, max 0.73 sec, min 0.15 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.17% of total time (compiled   29 times, average 0.23 sec, max 0.77 sec, min 0.16 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.16% of total time (compiled   39 times, average 0.17 sec, max 0.29 sec, min 0.07 sec)
+[2024.01.29-09.31.27:070][ 63]LogShaderCompilers: Display: ================================================
+[2024.01.29-09.33.43:613][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-09.33.43:664][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-09.33.43:675][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.29-09.33.43:681][626]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-09.33.43:681][626]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMap39DAEBAF438503DC8000DE879AE7E510.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-09.33.43:693][626]LogFileHelpers: Saving map 'NewMap' took 0.029
+[2024.01.29-09.33.43:699][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 180 ms)
+[2024.01.29-09.33.43:700][626]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-09.33.43:700][626]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap

@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset"
+				"C:/Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/CesiumSettings/CesiumIonServers/CesiumIonSaaS.uasset",
+				"C:/Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap"
 			]
 		}
 	]
