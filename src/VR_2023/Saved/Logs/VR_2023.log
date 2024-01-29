@@ -1270,3 +1270,243 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.29-11.27.59:010][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms
 [2024.01.29-11.27.59:012][710]AssetCheck: New page: Asset Save: NewMap
 [2024.01.29-11.27.59:012][710]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.01.29-11.28.23:387][611]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.29-11.28.31:219][518]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.01.29-11.28.31:220][518]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.01.29-11.28.31:221][518]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/NewMap.NewMap:PersistentLevel.Actor_0
+[2024.01.29-11.28.31:221][518]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/NewMap.NewMap:PersistentLevel.Actor_0
+[2024.01.29-11.28.33:778][800]Cmd: TRANSACTION UNDO
+[2024.01.29-11.28.33:778][800]LogEditorTransaction: Undo Create Actor
+[2024.01.29-11.28.34:028][801]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.28.39:843][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.01.29-11.28.39:843][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.01.29-11.28.39:844][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2024.01.29-11.28.39:850][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_0
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Total job queries 42, among them cache hits 14 (33.33%)
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 24 distinct outputs (85.71%)
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: RAM used: 617.34 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.47 s
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.54
+[2024.01.29-11.28.40:427][415]LogShaderCompilers: Display: Shader code size: average 33.893 KiB, min 29.711 KiB, max 35.902 KiB
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.54 s
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Average processing rate: 7.38 jobs/sec
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Total thread time: 0.711 s
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Total thread preprocess time: 0.134 s
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Percentage time preprocessing: 18.90%
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.89% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.27% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.40% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.43% of total time (compiled    1 times, average 0.10 sec, max 0.10 sec, min 0.10 sec)
+[2024.01.29-11.28.40:428][415]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.28.40:550][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-11.29.24:062][607]Cmd: DELETE
+[2024.01.29-11.29.24:062][607]Cmd: ACTOR DELETE
+[2024.01.29-11.29.24:076][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.29-11.29.24:080][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.29-11.29.24:082][607]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.29-11.29.55:728][302]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.29-11.29.55:732][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.29-11.29.55:732][302]PIE: New page: PIE session: NewMap (Jan 29, 2024, 1:29:55 PM)
+[2024.01.29-11.29.55:732][302]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2024.01.29-11.29.55:734][302]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.01.29-11.29.55:745][303]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.01.29-11.29.55:746][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002068s)
+[2024.01.29-11.29.55:746][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002108s)
+[2024.01.29-11.29.55:751][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.29-11.29.55:753][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-11.29.55:753][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-11.29.55:753][303]LogAIModule: Creating AISystem for world NewMap
+[2024.01.29-11.29.55:754][303]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.01.29-11.29.55:754][303]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.29-11.29.55:754][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.29-11.29.55:754][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.29-11.29.55:754][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.29-11.29.55:754][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.29-11.29.55:754][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.29-11.29.55:756][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.29-11.29.55:772][303]LogAudioMixer: Display: Using Audio Hardware Device PHL 273V7 (NVIDIA High Definition Audio)
+[2024.01.29-11.29.55:772][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.29-11.29.55:772][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.29-11.29.55:772][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.29-11.29.55:773][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.29-11.29.55:773][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.29-11.29.55:774][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.29-11.29.55:774][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.29-11.29.55:774][303]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.29-11.29.55:774][303]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewMap'.
+[2024.01.29-11.29.55:774][303]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.29-11.29.55:791][303]LogLoad: Game class is 'GameModeBase'
+[2024.01.29-11.29.55:792][303]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.01.29-12.29.55
+[2024.01.29-11.29.55:792][303]LogWorld: Bringing up level for play took: 0.000538
+[2024.01.29-11.29.55:793][303]LogCesium: Loading tileset for asset ID 2275207
+[2024.01.29-11.29.55:793][303]LogCesium: Loading tileset for asset ID 2275207 done
+[2024.01.29-11.29.55:793][303]PIE: Server logged in
+[2024.01.29-11.29.55:794][303]PIE: Play in editor total start time 0.062 seconds.
+[2024.01.29-11.30.11:710][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-11.30.11:710][184]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.01.29-11.30.11:753][184]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-11.30.11:753][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-11.30.11:760][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.29-11.30.11:764][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-11.30.11:769][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-11.30.11:769][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.29-11.30.11:769][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.29-11.30.11:771][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.29-11.30.11:774][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-11.30.11:798][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.29-11.30.11:838][185]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.01.29-11.30.53:314][ 46]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.31.22:409][202]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.31.38:542][ 69]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.32.28:919][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.01.29-11.32.28:919][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.01.29-11.32.28:920][739]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2024.01.29-11.32.28:920][739]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2024.01.29-11.34.27:328][971]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Total job queries 60, among them cache hits 22 (36.67%)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Tracking 37 distinct input hashes that result in 31 distinct outputs (83.78%)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: RAM used: 784.65 KiB of 1.60 GiB budget. Usage: 0.05%
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Shaders Compiled: 7
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Jobs assigned 8, completed 7 (87.50%)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Average time worker was idle: 350.93 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 0.47 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.54
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Shader code size: average 34.425 KiB, min 29.711 KiB, max 35.902 KiB
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.90 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Average processing rate: 7.76 jobs/sec
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Total thread time: 1.202 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Total thread preprocess time: 0.208 s
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Percentage time preprocessing: 17.27%
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Effective parallelization: 1.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.11 sec, max 0.12 sec, min 0.10 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                                 FLumenCardVS - 32.00% of total time (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.51% of total time (compiled    2 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.28% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.21% of total time (compiled    2 times, average 0.11 sec, max 0.12 sec, min 0.10 sec)
+[2024.01.29-11.34.31:678][447]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.35.36:067][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-11.35.36:127][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-11.35.36:221][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.29-11.35.36:231][ 57]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-11.35.36:232][ 57]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMap85653C2343EC4656DF61E2B3213A2873.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-11.35.36:249][ 57]LogFileHelpers: Saving map 'NewMap' took 0.132
+[2024.01.29-11.35.36:255][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 284 ms)
+[2024.01.29-11.35.36:257][ 57]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-11.35.36:257][ 57]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.01.29-11.35.40:983][594]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.35.53:070][902]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.36.01:202][806]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.36.21:253][113]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.36.25:031][437]Cmd: DELETE
+[2024.01.29-11.36.25:031][437]Cmd: ACTOR DELETE
+[2024.01.29-11.36.25:046][437]LogEditorActor: Deleted Actor: DynamicPawn_C
+[2024.01.29-11.36.25:055][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.29-11.36.25:060][437]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.01.29-11.36.27:062][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-11.36.27:119][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-11.36.27:130][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.29-11.36.27:135][665]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-11.36.27:136][665]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMapC2B7A72A4CF4C84512A5CB88387BE787.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-11.36.27:144][665]LogFileHelpers: Saving map 'NewMap' took 0.025
+[2024.01.29-11.36.27:150][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 372 ms)
+[2024.01.29-11.36.27:152][665]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-11.36.27:152][665]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.01.29-11.36.28:624][842]LogEditor: Attempting to add actor of class 'DynamicPawn_C' to level at 0.00,0.00,0.00
+[2024.01.29-11.36.28:729][843]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.36.31:725][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.29-11.36.31:731][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.29-11.36.31:731][182]PIE: New page: PIE session: NewMap (Jan 29, 2024, 1:36:31 PM)
+[2024.01.29-11.36.31:731][182]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2024.01.29-11.36.31:733][182]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.01.29-11.36.31:751][183]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.01.29-11.36.31:753][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001419s)
+[2024.01.29-11.36.31:753][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.001459s)
+[2024.01.29-11.36.31:755][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.29-11.36.31:757][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-11.36.31:757][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-11.36.31:758][183]LogAIModule: Creating AISystem for world NewMap
+[2024.01.29-11.36.31:758][183]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.01.29-11.36.31:758][183]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.29-11.36.31:758][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.29-11.36.31:758][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.29-11.36.31:759][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.29-11.36.31:759][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.29-11.36.31:759][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.29-11.36.31:760][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.29-11.36.31:776][183]LogAudioMixer: Display: Using Audio Hardware Device PHL 273V7 (NVIDIA High Definition Audio)
+[2024.01.29-11.36.31:776][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.29-11.36.31:776][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.29-11.36.31:776][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.29-11.36.31:777][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.29-11.36.31:777][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.29-11.36.31:778][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.29-11.36.31:778][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.29-11.36.31:778][183]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.29-11.36.31:778][183]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2024.01.29-11.36.31:778][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.29-11.36.31:781][183]LogLoad: Game class is 'GameModeBase'
+[2024.01.29-11.36.31:781][183]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.01.29-12.36.31
+[2024.01.29-11.36.31:781][183]LogWorld: Bringing up level for play took: 0.000589
+[2024.01.29-11.36.31:783][183]LogCesium: Loading tileset for asset ID 2275207
+[2024.01.29-11.36.31:783][183]LogCesium: Loading tileset for asset ID 2275207 done
+[2024.01.29-11.36.31:783][183]PIE: Server logged in
+[2024.01.29-11.36.31:783][183]PIE: Play in editor total start time 0.052 seconds.
+[2024.01.29-11.38.14:648][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-11.38.14:648][338]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.01.29-11.38.14:690][338]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-11.38.14:690][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-11.38.14:697][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.29-11.38.14:701][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-11.38.14:705][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-11.38.14:708][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.29-11.38.14:709][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.29-11.38.14:711][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.29-11.38.14:714][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-11.38.14:737][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.29-11.38.14:810][339]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.01.29-11.38.14:834][339]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.39.32:962][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-11.39.33:017][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-11.39.33:032][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.29-11.39.33:040][851]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-11.39.33:040][851]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMapE63682F0499CB949795033B6D691A733.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-11.39.33:048][851]LogFileHelpers: Saving map 'NewMap' took 0.032
+[2024.01.29-11.39.33:054][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 463 ms)
+[2024.01.29-11.39.33:055][851]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-11.39.33:055][851]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
