@@ -1158,3 +1158,46 @@ LogInit: Object subsystem initialized
 [2024.01.29-11.07.14:616][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms
 [2024.01.29-11.07.14:617][690]AssetCheck: New page: Asset Save: NewMap
 [2024.01.29-11.07.14:617][690]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.01.29-11.07.53:607][208]LogCesiumEditor: Warning: Authorizing the project's default Cesium ion token to access the following asset IDs: 2275207
+[2024.01.29-11.07.54:331][295]LogEditor: Attempting to add actor of class 'Cesium3DTileset' to level at 0.00,0.00,0.00
+[2024.01.29-11.07.54:332][295]LogCesium: Loading tileset for asset ID 0
+[2024.01.29-11.07.54:332][295]LogCesium: Loading tileset for asset ID 0 done
+[2024.01.29-11.07.54:345][295]LogCesium: Loading tileset for asset ID 2275207
+[2024.01.29-11.07.54:345][295]LogCesium: Loading tileset for asset ID 2275207 done
+[2024.01.29-11.07.59:252][867]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.29-11.08.01:141][ 66]Cmd: DELETE
+[2024.01.29-11.08.01:141][ 66]Cmd: ACTOR DELETE
+[2024.01.29-11.08.01:162][ 66]LogEditorActor: Deleted Actor: Cesium3DTileset
+[2024.01.29-11.08.01:205][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.29-11.08.01:207][ 66]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2024.01.29-11.08.04:839][476]EditorErrors: New page: Actor attachment
+[2024.01.29-11.08.06:956][715]EditorErrors: New page: Actor attachment
+[2024.01.29-11.08.08:222][853]EditorErrors: New page: Actor attachment
+[2024.01.29-11.08.10:038][ 54]EditorErrors: New page: Actor attachment
+[2024.01.29-11.08.12:093][290]LogViewport: Scene viewport resized to 369x182, mode Windowed.
+[2024.01.29-11.08.14:451][545]Cmd: DELETE
+[2024.01.29-11.08.14:451][545]Cmd: ACTOR DELETE
+[2024.01.29-11.08.14:459][545]LogEditorActor: Deleted Actor: DynamicPawn_C
+[2024.01.29-11.08.14:462][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.29-11.08.14:465][545]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.01.29-11.08.16:725][795]EditorErrors: New page: Actor attachment
+[2024.01.29-11.08.18:138][950]EditorErrors: New page: Actor attachment
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: Total job queries 36, among them cache hits 10 (27.78%)
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 24 distinct outputs (92.31%)
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: RAM used: 559.20 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.29-11.10.34:038][318]LogShaderCompilers: Display: ================================================
+[2024.01.29-11.11.23:750][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-11.11.23:811][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.29-11.11.23:821][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.29-11.11.23:826][559]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.01.29-11.11.23:827][559]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMapA1AADEB9447733091F1928858180FEC4.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.01.29-11.11.23:833][559]LogFileHelpers: Saving map 'NewMap' took 0.023
+[2024.01.29-11.11.23:838][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 173 ms)
+[2024.01.29-11.11.23:839][559]AssetCheck: New page: Asset Save: NewMap
+[2024.01.29-11.11.23:839][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
