@@ -1206,3 +1206,41 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.02.02-14.47.13:661][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms
 [2024.02.02-14.47.13:665][524]AssetCheck: New page: Asset Save: NewMap
 [2024.02.02-14.47.13:665][524]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: ================================================
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Total job queries 69, among them cache hits 24 (34.78%)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 34 distinct outputs (80.95%)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: RAM used: 969.30 KiB of 1.60 GiB budget. Usage: 0.06%
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Average time worker was idle: 449.81 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.04 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 0.42 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 0.44
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Shader code size: average 33.303 KiB, min 31.457 KiB, max 35.125 KiB
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.71 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Average processing rate: 4.20 jobs/sec
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Total thread time: 0.418 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Total thread preprocess time: 0.057 s
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Percentage time preprocessing: 13.54%
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Effective parallelization: 0.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 41.44% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 39.64% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.92% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.02.02-14.49.00:675][137]LogShaderCompilers: Display: ================================================
+[2024.02.02-14.49.21:762][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.02-14.49.21:821][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-14.49.21:847][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.02-14.49.21:856][613]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.02.02-14.49.21:858][613]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Saved/NewMapCC00CE234C5988BE7DA86D8A56DEB9C3.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/VR_2023/Content/NewMap.umap'
+[2024.02.02-14.49.21:868][613]LogFileHelpers: Saving map 'NewMap' took 0.049
+[2024.02.02-14.49.21:879][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 294 ms)
+[2024.02.02-14.49.21:880][613]AssetCheck: New page: Asset Save: NewMap
+[2024.02.02-14.49.21:880][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
