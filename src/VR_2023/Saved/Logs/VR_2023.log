@@ -1310,3 +1310,295 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.02.21-10.59.33:271][504]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
 [2024.02.21-11.00.39:453][182]LogSlate: Window 'CesiumCartographicPolygon_1 - Property Editor' being destroyed
 [2024.02.21-11.00.39:457][182]LogSlate: Window 'CesiumCartographicPolygon_1 - Property Editor' being destroyed
+[2024.02.21-11.53.24:852][639]LogDerivedDataCache: C:/Users/PAA 2024/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1759 files in 2625 folders with total size 138 MiB.
+[2024.02.21-12.31.33:222][191]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.31.33:227][191]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.31.33:227][191]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.02.21-12.39.57:130][893]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.39.57:136][893]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.39.57:137][893]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.02.21-12.40.51:041][936]LogViewport: Scene viewport resized to 1206x886, mode Windowed.
+[2024.02.21-12.40.51:053][937]LogViewport: Scene viewport resized to 1206x881, mode Windowed.
+[2024.02.21-12.40.51:069][938]LogViewport: Scene viewport resized to 1206x878, mode Windowed.
+[2024.02.21-12.40.51:101][939]LogViewport: Scene viewport resized to 1206x862, mode Windowed.
+[2024.02.21-12.40.51:121][940]LogViewport: Scene viewport resized to 1206x856, mode Windowed.
+[2024.02.21-12.40.51:156][941]LogViewport: Scene viewport resized to 1206x842, mode Windowed.
+[2024.02.21-12.40.51:187][942]LogViewport: Scene viewport resized to 1206x821, mode Windowed.
+[2024.02.21-12.40.51:218][943]LogViewport: Scene viewport resized to 1206x794, mode Windowed.
+[2024.02.21-12.40.51:268][943]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.21-12.40.51:293][944]LogViewport: Scene viewport resized to 1206x718, mode Windowed.
+[2024.02.21-12.40.51:323][945]LogViewport: Scene viewport resized to 1206x690, mode Windowed.
+[2024.02.21-12.40.51:351][946]LogViewport: Scene viewport resized to 1206x664, mode Windowed.
+[2024.02.21-12.40.51:369][947]LogViewport: Scene viewport resized to 1206x655, mode Windowed.
+[2024.02.21-12.40.51:388][948]LogViewport: Scene viewport resized to 1206x647, mode Windowed.
+[2024.02.21-12.40.51:403][949]LogViewport: Scene viewport resized to 1206x639, mode Windowed.
+[2024.02.21-12.40.51:419][950]LogViewport: Scene viewport resized to 1206x630, mode Windowed.
+[2024.02.21-12.40.51:435][951]LogViewport: Scene viewport resized to 1206x622, mode Windowed.
+[2024.02.21-12.40.51:452][952]LogViewport: Scene viewport resized to 1206x616, mode Windowed.
+[2024.02.21-12.40.51:475][953]LogViewport: Scene viewport resized to 1206x607, mode Windowed.
+[2024.02.21-12.40.51:492][954]LogViewport: Scene viewport resized to 1206x605, mode Windowed.
+[2024.02.21-12.40.51:506][955]LogViewport: Scene viewport resized to 1206x604, mode Windowed.
+[2024.02.21-12.40.51:745][983]LogViewport: Scene viewport resized to 1206x601, mode Windowed.
+[2024.02.21-12.40.51:760][984]LogViewport: Scene viewport resized to 1206x590, mode Windowed.
+[2024.02.21-12.40.51:774][985]LogViewport: Scene viewport resized to 1206x583, mode Windowed.
+[2024.02.21-12.40.51:795][986]LogViewport: Scene viewport resized to 1206x571, mode Windowed.
+[2024.02.21-12.40.51:807][987]LogViewport: Scene viewport resized to 1206x563, mode Windowed.
+[2024.02.21-12.40.51:826][988]LogViewport: Scene viewport resized to 1206x554, mode Windowed.
+[2024.02.21-12.40.51:841][989]LogViewport: Scene viewport resized to 1206x550, mode Windowed.
+[2024.02.21-12.40.51:856][990]LogViewport: Scene viewport resized to 1206x547, mode Windowed.
+[2024.02.21-12.40.51:871][991]LogViewport: Scene viewport resized to 1206x546, mode Windowed.
+[2024.02.21-12.40.51:894][993]LogViewport: Scene viewport resized to 1206x544, mode Windowed.
+[2024.02.21-12.40.52:107][ 18]LogViewport: Scene viewport resized to 1206x543, mode Windowed.
+[2024.02.21-12.40.52:120][ 19]LogViewport: Scene viewport resized to 1206x536, mode Windowed.
+[2024.02.21-12.40.52:135][ 20]LogViewport: Scene viewport resized to 1206x534, mode Windowed.
+[2024.02.21-12.40.52:158][ 21]LogViewport: Scene viewport resized to 1206x525, mode Windowed.
+[2024.02.21-12.40.52:175][ 22]LogViewport: Scene viewport resized to 1206x522, mode Windowed.
+[2024.02.21-12.41.04:190][418]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+[2024.02.21-12.41.04:208][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-12.41.04:208][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.21-12.41.04:415][418]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.21-12.41.04:415][418]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.21-12.41.04:415][418]MaterialEditorStats: Shader Count: 0
+[2024.02.21-12.41.04:424][418]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.21-12.41.04:434][418]LogViewport: Scene viewport resized to 375x383, mode Windowed.
+[2024.02.21-12.41.04:517][419]LogCesium: Error: [2024-02-21 13:41:04.518] [error] [SqliteCache.cpp:441] database is locked
+
+[2024.02.21-12.41.04:518][419]LogCesium: Error: [2024-02-21 13:41:04.518] [error] [SqliteCache.cpp:412] database is locked
+
+[2024.02.21-12.41.04:518][419]LogCesium: Error: [2024-02-21 13:41:04.518] [error] [SqliteCache.cpp:441] database is locked
+
+[2024.02.21-12.41.04:518][419]LogCesium: Error: [2024-02-21 13:41:04.519] [error] [SqliteCache.cpp:412] database is locked
+
+[2024.02.21-12.41.04:704][425]LogCesium: Error: [2024-02-21 13:41:04.704] [error] [SqliteCache.cpp:609] database is locked
+
+[2024.02.21-12.41.04:722][426]LogCesium: Error: [2024-02-21 13:41:04.722] [error] [SqliteCache.cpp:475] database is locked
+
+[2024.02.21-12.41.04:722][426]LogCesium: Error: [2024-02-21 13:41:04.723] [error] [SqliteCache.cpp:609] database is locked
+
+[2024.02.21-12.41.04:849][433]LogCesium: Error: [2024-02-21 13:41:04.850] [error] [SqliteCache.cpp:475] database is locked
+
+[2024.02.21-12.41.04:854][433]LogShaderCompilers: Display: ================================================
+[2024.02.21-12.41.04:854][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.21-12.41.04:854][433]LogShaderCompilers: Display: Total job queries 91, among them cache hits 30 (32.97%)
+[2024.02.21-12.41.04:854][433]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 41 distinct outputs (80.39%)
+[2024.02.21-12.41.04:854][433]LogShaderCompilers: Display: RAM used: 1.10 MiB of 1.60 GiB budget. Usage: 0.07%
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Shaders Compiled: 17
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Jobs assigned 27, completed 17 (62.96%)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Average time worker was idle: 2959.32 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.40 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Job execution time: average 0.45 s, max 1.64 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 1.74
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Shader code size: average 37.327 KiB, min 29.605 KiB, max 79.406 KiB
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.40 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Average processing rate: 5.01 jobs/sec
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Total thread time: 4.348 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Total thread preprocess time: 0.448 s
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Percentage time preprocessing: 10.31%
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.20 sec, max 0.24 sec, min 0.17 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.19 sec, max 0.21 sec, min 0.18 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.19 sec, max 0.22 sec, min 0.15 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 32.84% of total time (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.58% of total time (compiled    4 times, average 0.19 sec, max 0.22 sec, min 0.15 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.34% of total time (compiled    5 times, average 0.12 sec, max 0.18 sec, min 0.10 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.94% of total time (compiled    3 times, average 0.20 sec, max 0.24 sec, min 0.17 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.19% of total time (compiled    3 times, average 0.19 sec, max 0.21 sec, min 0.18 sec)
+[2024.02.21-12.41.04:855][433]LogShaderCompilers: Display: ================================================
+[2024.02.21-12.41.04:974][441]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.02.21-12.41.04:974][441]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.02.21-12.41.04:974][441]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.21-12.41.04:974][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.21-12.41.04:974][441]MaterialEditorStats: Shader Count: 3
+[2024.02.21-12.41.08:686][766]LogViewport: Scene viewport resized to 378x383, mode Windowed.
+[2024.02.21-12.41.08:701][767]LogViewport: Scene viewport resized to 390x383, mode Windowed.
+[2024.02.21-12.41.08:717][768]LogViewport: Scene viewport resized to 405x383, mode Windowed.
+[2024.02.21-12.41.08:734][769]LogViewport: Scene viewport resized to 425x383, mode Windowed.
+[2024.02.21-12.41.08:751][770]LogViewport: Scene viewport resized to 443x383, mode Windowed.
+[2024.02.21-12.41.08:769][771]LogViewport: Scene viewport resized to 465x383, mode Windowed.
+[2024.02.21-12.41.08:785][772]LogViewport: Scene viewport resized to 485x383, mode Windowed.
+[2024.02.21-12.41.08:801][773]LogViewport: Scene viewport resized to 507x383, mode Windowed.
+[2024.02.21-12.41.08:818][774]LogViewport: Scene viewport resized to 528x383, mode Windowed.
+[2024.02.21-12.41.08:833][775]LogViewport: Scene viewport resized to 549x383, mode Windowed.
+[2024.02.21-12.41.08:852][776]LogViewport: Scene viewport resized to 574x383, mode Windowed.
+[2024.02.21-12.41.08:866][777]LogViewport: Scene viewport resized to 586x383, mode Windowed.
+[2024.02.21-12.41.08:882][778]LogViewport: Scene viewport resized to 593x383, mode Windowed.
+[2024.02.21-12.41.08:899][779]LogViewport: Scene viewport resized to 606x383, mode Windowed.
+[2024.02.21-12.41.08:918][780]LogViewport: Scene viewport resized to 612x383, mode Windowed.
+[2024.02.21-12.41.08:932][781]LogViewport: Scene viewport resized to 634x383, mode Windowed.
+[2024.02.21-12.41.08:950][782]LogViewport: Scene viewport resized to 654x383, mode Windowed.
+[2024.02.21-12.41.08:966][783]LogViewport: Scene viewport resized to 677x383, mode Windowed.
+[2024.02.21-12.41.08:985][784]LogViewport: Scene viewport resized to 703x383, mode Windowed.
+[2024.02.21-12.41.09:001][785]LogViewport: Scene viewport resized to 728x383, mode Windowed.
+[2024.02.21-12.41.09:017][786]LogViewport: Scene viewport resized to 754x383, mode Windowed.
+[2024.02.21-12.41.09:033][787]LogViewport: Scene viewport resized to 775x383, mode Windowed.
+[2024.02.21-12.41.09:052][788]LogViewport: Scene viewport resized to 804x383, mode Windowed.
+[2024.02.21-12.41.09:070][789]LogViewport: Scene viewport resized to 813x383, mode Windowed.
+[2024.02.21-12.41.09:087][790]LogViewport: Scene viewport resized to 817x383, mode Windowed.
+[2024.02.21-12.41.09:286][807]LogViewport: Scene viewport resized to 812x383, mode Windowed.
+[2024.02.21-12.41.09:301][808]LogViewport: Scene viewport resized to 808x383, mode Windowed.
+[2024.02.21-12.41.09:318][809]LogViewport: Scene viewport resized to 799x383, mode Windowed.
+[2024.02.21-12.41.09:335][810]LogViewport: Scene viewport resized to 790x383, mode Windowed.
+[2024.02.21-12.41.09:351][811]LogViewport: Scene viewport resized to 782x383, mode Windowed.
+[2024.02.21-12.41.09:368][812]LogViewport: Scene viewport resized to 773x383, mode Windowed.
+[2024.02.21-12.41.09:384][813]LogViewport: Scene viewport resized to 759x383, mode Windowed.
+[2024.02.21-12.41.09:401][814]LogViewport: Scene viewport resized to 746x383, mode Windowed.
+[2024.02.21-12.41.09:417][815]LogViewport: Scene viewport resized to 729x383, mode Windowed.
+[2024.02.21-12.41.09:436][816]LogViewport: Scene viewport resized to 698x383, mode Windowed.
+[2024.02.21-12.41.09:452][817]LogViewport: Scene viewport resized to 678x383, mode Windowed.
+[2024.02.21-12.41.09:469][818]LogViewport: Scene viewport resized to 664x383, mode Windowed.
+[2024.02.21-12.41.09:486][819]LogViewport: Scene viewport resized to 650x383, mode Windowed.
+[2024.02.21-12.41.09:502][820]LogViewport: Scene viewport resized to 642x383, mode Windowed.
+[2024.02.21-12.41.09:518][821]LogViewport: Scene viewport resized to 634x383, mode Windowed.
+[2024.02.21-12.41.09:535][822]LogViewport: Scene viewport resized to 625x383, mode Windowed.
+[2024.02.21-12.41.09:551][823]LogViewport: Scene viewport resized to 617x383, mode Windowed.
+[2024.02.21-12.41.09:568][824]LogViewport: Scene viewport resized to 608x383, mode Windowed.
+[2024.02.21-12.41.09:584][825]LogViewport: Scene viewport resized to 597x383, mode Windowed.
+[2024.02.21-12.41.09:600][826]LogViewport: Scene viewport resized to 591x383, mode Windowed.
+[2024.02.21-12.41.09:617][827]LogViewport: Scene viewport resized to 581x383, mode Windowed.
+[2024.02.21-12.41.09:632][828]LogViewport: Scene viewport resized to 575x383, mode Windowed.
+[2024.02.21-12.41.09:649][829]LogViewport: Scene viewport resized to 568x383, mode Windowed.
+[2024.02.21-12.41.09:665][830]LogViewport: Scene viewport resized to 564x383, mode Windowed.
+[2024.02.21-12.41.09:681][831]LogViewport: Scene viewport resized to 561x383, mode Windowed.
+[2024.02.21-12.41.09:696][832]LogViewport: Scene viewport resized to 560x383, mode Windowed.
+[2024.02.21-12.41.09:733][835]LogViewport: Scene viewport resized to 558x383, mode Windowed.
+[2024.02.21-12.41.09:849][845]LogViewport: Scene viewport resized to 557x383, mode Windowed.
+[2024.02.21-12.41.09:865][846]LogViewport: Scene viewport resized to 548x383, mode Windowed.
+[2024.02.21-12.41.09:879][847]LogViewport: Scene viewport resized to 539x383, mode Windowed.
+[2024.02.21-12.41.09:896][848]LogViewport: Scene viewport resized to 529x383, mode Windowed.
+[2024.02.21-12.41.09:911][849]LogViewport: Scene viewport resized to 523x383, mode Windowed.
+[2024.02.21-12.41.09:926][850]LogViewport: Scene viewport resized to 515x383, mode Windowed.
+[2024.02.21-12.41.09:941][851]LogViewport: Scene viewport resized to 509x383, mode Windowed.
+[2024.02.21-12.41.09:958][852]LogViewport: Scene viewport resized to 501x383, mode Windowed.
+[2024.02.21-12.41.09:974][853]LogViewport: Scene viewport resized to 496x383, mode Windowed.
+[2024.02.21-12.41.09:989][854]LogViewport: Scene viewport resized to 492x383, mode Windowed.
+[2024.02.21-12.41.10:017][856]LogViewport: Scene viewport resized to 490x383, mode Windowed.
+[2024.02.21-12.41.10:155][868]LogViewport: Scene viewport resized to 487x383, mode Windowed.
+[2024.02.21-12.41.11:059][947]LogViewport: Scene viewport resized to 487x381, mode Windowed.
+[2024.02.21-12.41.11:074][948]LogViewport: Scene viewport resized to 487x385, mode Windowed.
+[2024.02.21-12.41.11:089][949]LogViewport: Scene viewport resized to 487x388, mode Windowed.
+[2024.02.21-12.41.11:112][950]LogViewport: Scene viewport resized to 487x396, mode Windowed.
+[2024.02.21-12.41.11:126][951]LogViewport: Scene viewport resized to 487x404, mode Windowed.
+[2024.02.21-12.41.11:142][952]LogViewport: Scene viewport resized to 487x413, mode Windowed.
+[2024.02.21-12.41.11:156][953]LogViewport: Scene viewport resized to 487x419, mode Windowed.
+[2024.02.21-12.41.11:172][954]LogViewport: Scene viewport resized to 487x428, mode Windowed.
+[2024.02.21-12.41.11:188][955]LogViewport: Scene viewport resized to 487x436, mode Windowed.
+[2024.02.21-12.41.11:205][956]LogViewport: Scene viewport resized to 487x444, mode Windowed.
+[2024.02.21-12.41.11:221][957]LogViewport: Scene viewport resized to 487x454, mode Windowed.
+[2024.02.21-12.41.11:237][958]LogViewport: Scene viewport resized to 487x465, mode Windowed.
+[2024.02.21-12.41.11:254][959]LogViewport: Scene viewport resized to 487x476, mode Windowed.
+[2024.02.21-12.41.11:271][960]LogViewport: Scene viewport resized to 487x487, mode Windowed.
+[2024.02.21-12.41.11:287][961]LogViewport: Scene viewport resized to 487x503, mode Windowed.
+[2024.02.21-12.41.11:304][962]LogViewport: Scene viewport resized to 487x518, mode Windowed.
+[2024.02.21-12.41.11:320][963]LogViewport: Scene viewport resized to 487x535, mode Windowed.
+[2024.02.21-12.41.11:336][964]LogViewport: Scene viewport resized to 487x554, mode Windowed.
+[2024.02.21-12.41.11:353][965]LogViewport: Scene viewport resized to 487x576, mode Windowed.
+[2024.02.21-12.41.11:370][966]LogViewport: Scene viewport resized to 487x593, mode Windowed.
+[2024.02.21-12.41.11:386][967]LogViewport: Scene viewport resized to 487x609, mode Windowed.
+[2024.02.21-12.41.11:402][968]LogViewport: Scene viewport resized to 487x625, mode Windowed.
+[2024.02.21-12.41.11:418][969]LogViewport: Scene viewport resized to 487x650, mode Windowed.
+[2024.02.21-12.41.11:434][970]LogViewport: Scene viewport resized to 487x666, mode Windowed.
+[2024.02.21-12.41.11:451][971]LogViewport: Scene viewport resized to 487x684, mode Windowed.
+[2024.02.21-12.41.11:468][972]LogViewport: Scene viewport resized to 487x694, mode Windowed.
+[2024.02.21-12.41.11:485][973]LogViewport: Scene viewport resized to 487x698, mode Windowed.
+[2024.02.21-12.41.11:501][974]LogViewport: Scene viewport resized to 487x701, mode Windowed.
+[2024.02.21-12.41.11:518][975]LogViewport: Scene viewport resized to 487x704, mode Windowed.
+[2024.02.21-12.41.11:544][977]LogViewport: Scene viewport resized to 487x705, mode Windowed.
+[2024.02.21-12.41.11:558][978]LogViewport: Scene viewport resized to 487x707, mode Windowed.
+[2024.02.21-12.41.11:575][979]LogViewport: Scene viewport resized to 487x708, mode Windowed.
+[2024.02.21-12.41.11:612][982]LogViewport: Scene viewport resized to 487x711, mode Windowed.
+[2024.02.21-12.41.17:339][506]LogViewport: Scene viewport resized to 487x712, mode Windowed.
+[2024.02.21-12.41.17:354][507]LogViewport: Scene viewport resized to 487x708, mode Windowed.
+[2024.02.21-12.41.17:372][508]LogViewport: Scene viewport resized to 487x701, mode Windowed.
+[2024.02.21-12.41.17:391][509]LogViewport: Scene viewport resized to 487x691, mode Windowed.
+[2024.02.21-12.41.17:409][510]LogViewport: Scene viewport resized to 487x683, mode Windowed.
+[2024.02.21-12.41.17:426][511]LogViewport: Scene viewport resized to 487x666, mode Windowed.
+[2024.02.21-12.41.17:449][512]LogViewport: Scene viewport resized to 487x651, mode Windowed.
+[2024.02.21-12.41.17:464][513]LogViewport: Scene viewport resized to 487x635, mode Windowed.
+[2024.02.21-12.41.17:481][514]LogViewport: Scene viewport resized to 487x616, mode Windowed.
+[2024.02.21-12.41.17:501][515]LogViewport: Scene viewport resized to 487x578, mode Windowed.
+[2024.02.21-12.41.17:519][516]LogViewport: Scene viewport resized to 487x555, mode Windowed.
+[2024.02.21-12.41.17:538][517]LogViewport: Scene viewport resized to 487x537, mode Windowed.
+[2024.02.21-12.41.17:555][518]LogViewport: Scene viewport resized to 487x515, mode Windowed.
+[2024.02.21-12.41.17:575][519]LogViewport: Scene viewport resized to 487x501, mode Windowed.
+[2024.02.21-12.41.17:593][520]LogViewport: Scene viewport resized to 487x485, mode Windowed.
+[2024.02.21-12.41.17:609][521]LogViewport: Scene viewport resized to 487x467, mode Windowed.
+[2024.02.21-12.41.17:631][522]LogViewport: Scene viewport resized to 487x436, mode Windowed.
+[2024.02.21-12.41.17:651][523]LogViewport: Scene viewport resized to 487x418, mode Windowed.
+[2024.02.21-12.41.17:668][524]LogViewport: Scene viewport resized to 487x399, mode Windowed.
+[2024.02.21-12.41.17:686][525]LogViewport: Scene viewport resized to 487x390, mode Windowed.
+[2024.02.21-12.41.17:724][526]LogViewport: Scene viewport resized to 487x385, mode Windowed.
+[2024.02.21-12.41.17:746][527]LogViewport: Scene viewport resized to 487x377, mode Windowed.
+[2024.02.21-12.41.17:763][528]LogViewport: Scene viewport resized to 487x375, mode Windowed.
+[2024.02.21-12.41.17:780][529]LogViewport: Scene viewport resized to 487x374, mode Windowed.
+[2024.02.21-12.41.17:967][544]LogViewport: Scene viewport resized to 487x371, mode Windowed.
+[2024.02.21-12.41.17:986][545]LogViewport: Scene viewport resized to 487x358, mode Windowed.
+[2024.02.21-12.41.18:003][546]LogViewport: Scene viewport resized to 487x340, mode Windowed.
+[2024.02.21-12.41.18:019][547]LogViewport: Scene viewport resized to 487x323, mode Windowed.
+[2024.02.21-12.41.18:039][548]LogViewport: Scene viewport resized to 487x301, mode Windowed.
+[2024.02.21-12.41.18:057][549]LogViewport: Scene viewport resized to 487x288, mode Windowed.
+[2024.02.21-12.41.18:077][550]LogViewport: Scene viewport resized to 487x279, mode Windowed.
+[2024.02.21-12.41.18:093][551]LogViewport: Scene viewport resized to 487x274, mode Windowed.
+[2024.02.21-12.41.18:113][552]LogViewport: Scene viewport resized to 487x272, mode Windowed.
+[2024.02.21-12.41.18:398][575]LogViewport: Scene viewport resized to 487x271, mode Windowed.
+[2024.02.21-12.41.18:414][576]LogViewport: Scene viewport resized to 487x268, mode Windowed.
+[2024.02.21-12.41.18:430][577]LogViewport: Scene viewport resized to 487x266, mode Windowed.
+[2024.02.21-12.41.18:446][578]LogViewport: Scene viewport resized to 487x263, mode Windowed.
+[2024.02.21-12.41.18:462][579]LogViewport: Scene viewport resized to 487x262, mode Windowed.
+[2024.02.21-12.41.18:478][580]LogViewport: Scene viewport resized to 487x261, mode Windowed.
+[2024.02.21-12.41.18:495][581]LogViewport: Scene viewport resized to 487x258, mode Windowed.
+[2024.02.21-12.41.18:514][582]LogViewport: Scene viewport resized to 487x256, mode Windowed.
+[2024.02.21-12.41.18:528][583]LogViewport: Scene viewport resized to 487x255, mode Windowed.
+[2024.02.21-12.41.18:547][584]LogViewport: Scene viewport resized to 487x253, mode Windowed.
+[2024.02.21-12.42.06:841][ 94]LogSlate: Window 'M_AssetPlatform' being destroyed
+[2024.02.21-12.42.06:860][ 94]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-12.42.06:860][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-12.46.05:435][599]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.46.05:442][599]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.46.05:442][599]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.02.21-12.51.11:575][182]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.51.11:580][182]LogSlate: Window 'Plugins' being destroyed
+[2024.02.21-12.51.11:580][182]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.02.21-12.52.42:863][284]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2024.02.21-12.52.42:869][284]LogSlate: Took 0.005835 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.02.21-12.52.42:881][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-12.52.43:291][325]LogShaderCompilers: Display: ================================================
+[2024.02.21-12.52.43:291][325]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.21-12.52.43:291][325]LogShaderCompilers: Display: Total job queries 105, among them cache hits 42 (40.00%)
+[2024.02.21-12.52.43:291][325]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 46 distinct outputs (74.19%)
+[2024.02.21-12.52.43:291][325]LogShaderCompilers: Display: RAM used: 1.32 MiB of 1.60 GiB budget. Usage: 0.08%
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Jobs assigned 29, completed 28 (96.55%)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Average time worker was idle: 2721.29 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.40 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 1.64 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 1.74
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Shader code size: average 36.252 KiB, min 29.605 KiB, max 79.406 KiB
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.01 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Average processing rate: 6.99 jobs/sec
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Total thread time: 6.643 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Total thread preprocess time: 0.698 s
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Percentage time preprocessing: 10.51%
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.23 sec, max 0.26 sec, min 0.17 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.20 sec, max 0.24 sec, min 0.15 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.20 sec, max 0.23 sec, min 0.17 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.22% of total time (compiled    8 times, average 0.20 sec, max 0.24 sec, min 0.15 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 21.49% of total time (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.56% of total time (compiled    6 times, average 0.23 sec, max 0.26 sec, min 0.17 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.88% of total time (compiled    6 times, average 0.20 sec, max 0.23 sec, min 0.17 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.54% of total time (compiled    6 times, average 0.12 sec, max 0.18 sec, min 0.08 sec)
+[2024.02.21-12.52.43:292][325]LogShaderCompilers: Display: ================================================
+[2024.02.21-12.52.43:450][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-12.53.24:880][ 40]LogDerivedDataCache: C:/Users/PAA 2024/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2107 files in 3004 folders with total size 140 MiB.
