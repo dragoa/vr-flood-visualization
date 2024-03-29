@@ -8558,3 +8558,24 @@ NewMap30 (Other Actor)
 [2024.03.29-13.41.40:615][871]LogCesium: Loading tileset for asset ID 1 done
 [2024.03.29-13.41.40:667][871]PIE: Server logged in
 [2024.03.29-13.41.40:668][871]PIE: Play in editor total start time 0.191 seconds.
+[2024.03.29-13.48.19:237][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-13.48.19:238][276]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-13.48.19:252][276]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-13.48.19:253][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-13.48.19:293][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-13.48.19:298][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-13.48.19:306][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-13.48.19:306][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2024.03.29-13.48.19:306][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.03.29-13.48.19:307][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2024.03.29-13.48.19:333][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.29-13.48.19:359][277]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.03.29-13.48.23:402][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-13.48.23:438][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-13.48.23:462][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.29-13.48.23:480][556]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.03.29-13.48.23:481][556]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMap989F87B24B430421B4E5D2AF2BEAFE0E.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap'
+[2024.03.29-13.48.23:487][556]LogFileHelpers: Saving map 'NewMap' took 0.051
+[2024.03.29-13.48.23:492][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.68 sec)
+[2024.03.29-13.48.23:494][556]AssetCheck: New page: Asset Save: NewMap
+[2024.03.29-13.48.23:494][556]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
