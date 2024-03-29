@@ -1928,3 +1928,1414 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.29-10.06.29:049][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 271 ms)
 [2024.03.29-10.06.29:051][404]AssetCheck: New page: Asset Save: NewMap
 [2024.03.29-10.06.29:051][404]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.03.29-10.07.13:657][109]LogEditorViewport: Clicking Background
+[2024.03.29-10.07.15:339][305]LogEditorViewport: Clicking Background
+[2024.03.29-10.07.31:489][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.07.31:539][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-10.07.31:560][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.29-10.07.31:571][153]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.03.29-10.07.31:573][153]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMap30A15AE84494CEB9D50564B6DBFED659.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap'
+[2024.03.29-10.07.31:579][153]LogFileHelpers: Saving map 'NewMap' took 0.041
+[2024.03.29-10.07.31:585][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 366 ms)
+[2024.03.29-10.07.31:586][153]AssetCheck: New page: Asset Save: NewMap
+[2024.03.29-10.07.31:586][153]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.03.29-10.08.03:476][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.08.03:540][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-10.08.03:562][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.03.29-10.08.03:573][739]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.03.29-10.08.03:573][739]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMapF1BC9F4348ED65A4CE7591832D1ED437.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap'
+[2024.03.29-10.08.03:578][739]LogFileHelpers: Saving map 'NewMap' took 0.039
+[2024.03.29-10.08.03:583][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 473 ms)
+[2024.03.29-10.08.03:584][739]AssetCheck: New page: Asset Save: NewMap
+[2024.03.29-10.08.03:584][739]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.03.29-10.20.28:711][ 50]LogEditorViewport: Clicking Background
+[2024.03.29-10.21.47:458][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.29-10.21.47:472][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto1
+[2024.03.29-10.21.47:473][277]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMap_Auto14A8F238F4BC6DB9E9FAE06A393DD2557.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2024.03.29-10.21.47:474][277]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/Autosaves/Game/NewMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.29-10.21.47:474][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.030
+[2024.03.29-10.21.47:474][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.03.29-10.22.27:070][950]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver
+[2024.03.29-10.22.27:070][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.22.27:070][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.22.48:208][435]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.22.48:208][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.22.52:944][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver
+[2024.03.29-10.22.52:944][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.22.52:944][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.23.15:417][621]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.29-10.23.15:417][621]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.29-10.23.30:693][429]LogSlate: Window 'MyWaterBodyRiver' being destroyed
+[2024.03.29-10.23.30:699][429]LogSlate: Window 'MyWaterBodyRiver' being destroyed
+[2024.03.29-10.23.30:703][429]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.23.30:704][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.23.30:746][429]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.23.30:746][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.23.45:696][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver
+[2024.03.29-10.23.45:697][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.23.45:697][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.24.01:940][ 57]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.29-10.24.01:940][ 57]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.29-10.24.10:425][ 57]LogSlate: Window 'MyWaterBodyRiver' being destroyed
+[2024.03.29-10.24.10:429][ 57]LogSlate: Window 'MyWaterBodyRiver' being destroyed
+[2024.03.29-10.24.10:433][ 57]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.24.10:433][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.24.16:243][719]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/NewMap.NewMap:PersistentLevel.NewMap
+[2024.03.29-10.24.16:244][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.24.16:244][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.25.23:282][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver_C
+[2024.03.29-10.25.23:282][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver_C
+[2024.03.29-10.25.23:290][543]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver as actor: MyWaterBodyRiver_C /Game/NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_32
+[2024.03.29-10.25.23:292][543]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver as actor: MyWaterBodyRiver_C /Game/NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_32
+[2024.03.29-10.25.24:131][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver_C
+[2024.03.29-10.25.24:131][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver_C
+[2024.03.29-10.25.24:144][642]LogActorFactory: Actor Factory attempting to spawn Class /Script/Water.WaterZone
+[2024.03.29-10.25.24:145][642]LogActorFactory: Actor Factory spawned Class /Script/Water.WaterZone as actor: WaterZone /Game/NewMap.NewMap:PersistentLevel.WaterZone_7
+[2024.03.29-10.25.24:146][642]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver as actor: MyWaterBodyRiver_C /Game/NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_33
+[2024.03.29-10.25.24:149][642]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver as actor: MyWaterBodyRiver_C /Game/NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_33
+[2024.03.29-10.25.31:357][485]Cmd: SELECT NONE
+[2024.03.29-10.25.36:316][ 71]Cmd: SELECT NONE
+[2024.03.29-10.27.25:579][923]Cmd: SELECT NONE
+[2024.03.29-10.27.43:386][ 31]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.43:387][ 31]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.29-10.27.43:954][ 41]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.43:954][ 41]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.27.44:508][104]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.44:508][104]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.29-10.27.45:070][158]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.45:070][158]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.29-10.27.45:754][237]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.45:754][237]LogEditorTransaction: Undo Select None
+[2024.03.29-10.27.46:238][290]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.46:238][290]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.27.46:283][290]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.27.46:284][290]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.27.46:844][352]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.46:844][352]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.27.46:862][352]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.27.46:862][352]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.27.48:269][511]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.48:269][511]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.29-10.27.49:402][591]Cmd: TRANSACTION UNDO
+[2024.03.29-10.27.49:402][591]LogEditorTransaction: Undo Move Elements
+[2024.03.29-10.29.24:394][825]Cmd: DELETE
+[2024.03.29-10.29.24:394][825]Cmd: ACTOR DELETE
+[2024.03.29-10.29.24:412][825]LogEditorActor: Deleted Actor: MyWaterBodyRiver_C
+[2024.03.29-10.29.24:450][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.29-10.29.24:455][825]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.03.29-10.30.27:754][817]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.30.27:786][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.29-10.30.31:517][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.30.31:522][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.30.31:522][227]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:30:31 PM)
+[2024.03.29-10.30.31:522][227]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.30.31:524][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002098s)
+[2024.03.29-10.30.31:524][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002128s)
+[2024.03.29-10.30.31:535][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.29-10.30.31:537][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.30.31:537][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.30.31:538][227]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.30.31:538][227]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2024.03.29-10.30.31:538][227]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.30.31:538][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.30.31:538][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.30.31:538][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.30.31:538][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.30.31:538][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.30.31:541][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.30.31:585][227]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.30.31:585][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.30.31:585][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.30.31:585][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.30.31:586][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.29-10.30.31:586][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2024.03.29-10.30.31:587][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.29-10.30.31:587][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.29-10.30.31:587][227]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.29-10.30.31:587][227]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewMap'.
+[2024.03.29-10.30.31:587][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.29-10.30.31:590][227]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.30.31:590][227]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.30.31
+[2024.03.29-10.30.31:590][227]LogWorld: Bringing up level for play took: 0.000706
+[2024.03.29-10.30.31:592][227]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.03.29-10.30.31:593][227]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.30.31:593][227]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.30.31:602][227]PIE: Server logged in
+[2024.03.29-10.30.31:603][227]PIE: Play in editor total start time 0.081 seconds.
+[2024.03.29-10.30.31:606][227]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.30.31:606][227]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.30.47:144][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.30.47:144][ 69]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.30.47:167][ 69]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.30.47:167][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.30.47:173][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.30.47:177][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.30.47:187][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.30.47:187][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.29-10.30.47:187][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.29-10.30.47:189][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.29-10.30.47:216][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.29-10.30.47:258][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.03.29-10.31.24:234][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.31.24:239][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.31.24:239][444]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:31:24 PM)
+[2024.03.29-10.31.24:274][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.31.24:277][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002973s)
+[2024.03.29-10.31.24:277][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003030s)
+[2024.03.29-10.31.24:292][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.29-10.31.24:295][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.31.24:296][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.31.24:296][444]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.31.24:296][444]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2024.03.29-10.31.24:296][444]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.31.24:296][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.31.24:296][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.31.24:297][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.31.24:297][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.31.24:297][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.31.24:299][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.31.24:337][444]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.31.24:337][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.31.24:337][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.31.24:337][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.31.24:338][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.29-10.31.24:338][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2024.03.29-10.31.24:340][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.29-10.31.24:340][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.29-10.31.24:340][444]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.29-10.31.24:340][444]LogAudio: Display: Audio Device (ID: 11) registered with world 'NewMap'.
+[2024.03.29-10.31.24:340][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.29-10.31.24:343][444]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.31.24:343][444]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.31.24
+[2024.03.29-10.31.24:343][444]LogWorld: Bringing up level for play took: 0.000603
+[2024.03.29-10.31.24:345][444]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.29-10.31.24:346][444]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.31.24:346][444]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.31.24:355][444]PIE: Server logged in
+[2024.03.29-10.31.24:356][444]PIE: Play in editor total start time 0.117 seconds.
+[2024.03.29-10.31.24:359][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.31.24:359][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.31.34:874][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.31.34:874][683]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.31.34:899][683]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.31.34:899][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.31.34:903][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.31.34:908][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.31.34:917][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-10.31.34:918][683]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.29-10.31.34:918][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.29-10.31.34:919][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.29-10.31.34:925][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.31.34:935][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.29-10.31.34:987][684]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.29-10.32.27:859][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.29-10.32.27:859][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.29-10.32.27:859][765]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2024.03.29-10.32.27:860][765]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2024.03.29-10.32.29:311][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.29-10.32.29:311][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.03.29-10.32.29:313][935]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_2
+[2024.03.29-10.32.29:313][935]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_2
+[2024.03.29-10.34.19:918][782]LogBlueprint: Warning: [AssetLog] C:\Users\PAA 2024\Documents\GitHub\vr-flood-visualization\src\Unreal-5.3\Content\NewMap.umap: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2024.03.29-10.34.24:290][169]LogEditorTransaction: Undo Paste clipboard contents
+[2024.03.29-10.34.33:280][133]LogBlueprint: Warning: [AssetLog] C:\Users\PAA 2024\Documents\GitHub\vr-flood-visualization\src\Unreal-5.3\Content\NewMap.umap: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2024.03.29-10.35.18:744][553]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.35.18:788][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.29-10.35.20:131][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.35.20:137][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.35.20:137][690]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:35:20 PM)
+[2024.03.29-10.35.20:174][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.35.20:180][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2024.03.29-10.35.20:180][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006024s)
+[2024.03.29-10.35.20:191][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.29-10.35.20:193][690]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.35.20:193][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.35.20:193][690]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.35.20:193][690]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2024.03.29-10.35.20:193][690]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.35.20:194][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.35.20:194][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.35.20:194][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.35.20:194][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.35.20:194][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.35.20:196][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.35.20:234][690]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.35.20:235][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.35.20:235][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.35.20:235][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.35.20:235][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.29-10.35.20:235][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2024.03.29-10.35.20:237][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.29-10.35.20:237][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.29-10.35.20:237][690]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.29-10.35.20:237][690]LogAudio: Display: Audio Device (ID: 12) registered with world 'NewMap'.
+[2024.03.29-10.35.20:237][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.29-10.35.20:242][690]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.35.20:243][690]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.35.20
+[2024.03.29-10.35.20:244][690]LogWorld: Bringing up level for play took: 0.000948
+[2024.03.29-10.35.20:245][690]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.03.29-10.35.20:246][690]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.35.20:247][690]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.35.20:256][690]PIE: Server logged in
+[2024.03.29-10.35.20:256][690]PIE: Play in editor total start time 0.12 seconds.
+[2024.03.29-10.35.20:259][690]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.35.20:259][690]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.35.20:559][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.35.20:560][708]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.35.47:456][921]Set new viewmode: Wireframe
+[2024.03.29-10.35.56:144][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.35.56:144][959]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.35.56:172][959]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.35.56:172][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.35.56:178][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.35.56:182][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.35.56:192][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.35.56:192][959]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.29-10.35.56:192][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.29-10.35.56:194][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.29-10.35.56:211][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.29-10.35.56:390][960]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.03.29-10.36.02:044][603]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.36.02:048][603]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.36.41:337][792]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.36.41:373][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.29-10.36.45:969][328]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.36.45:974][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.36.45:974][328]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:36:45 PM)
+[2024.03.29-10.36.45:974][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.36.45:977][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002343s)
+[2024.03.29-10.36.45:977][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002374s)
+[2024.03.29-10.36.45:988][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.29-10.36.45:991][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.36.45:991][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.36.45:991][328]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.36.45:992][328]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.03.29-10.36.45:992][328]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.36.45:992][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.36.45:992][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.36.45:992][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.36.45:992][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.36.45:992][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.36.45:993][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.36.46:032][328]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.36.46:033][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.36.46:033][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.36.46:033][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.36.46:033][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.29-10.36.46:033][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2024.03.29-10.36.46:035][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.29-10.36.46:035][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.29-10.36.46:035][328]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.29-10.36.46:035][328]LogAudio: Display: Audio Device (ID: 13) registered with world 'NewMap'.
+[2024.03.29-10.36.46:035][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.29-10.36.46:037][328]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.36.46:038][328]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.36.46
+[2024.03.29-10.36.46:038][328]LogWorld: Bringing up level for play took: 0.000682
+[2024.03.29-10.36.46:039][328]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.29-10.36.46:040][328]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.36.46:040][328]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.36.46:050][328]PIE: Server logged in
+[2024.03.29-10.36.46:051][328]PIE: Play in editor total start time 0.077 seconds.
+[2024.03.29-10.36.46:053][328]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.36.46:053][328]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.36.46:366][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.36.46:367][350]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.37.14:252][618]Set new viewmode: Wireframe
+[2024.03.29-10.37.22:886][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.37.22:886][649]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.37.22:912][649]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.37.22:912][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.37.22:917][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.37.22:922][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.37.22:932][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.37.22:933][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.29-10.37.22:933][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.29-10.37.22:935][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.29-10.37.22:952][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.29-10.37.23:111][650]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.29-10.37.44:853][228]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.37.44:857][228]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.38.06:228][640]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.38.06:261][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.29-10.38.07:899][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.38.07:905][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.38.07:905][810]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:38:07 PM)
+[2024.03.29-10.38.07:933][810]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.38.07:936][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002551s)
+[2024.03.29-10.38.07:936][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002594s)
+[2024.03.29-10.38.07:950][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.29-10.38.07:952][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.38.07:952][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.38.07:953][810]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.38.07:953][810]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2024.03.29-10.38.07:953][810]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.38.07:953][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.38.07:953][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.38.07:954][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.38.07:954][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.38.07:954][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.38.07:956][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.38.07:993][810]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.38.07:993][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.38.07:993][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.38.07:993][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.38.07:995][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.29-10.38.07:995][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2024.03.29-10.38.07:997][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.29-10.38.07:997][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.29-10.38.07:997][810]LogInit: FAudioDevice initialized with ID 14.
+[2024.03.29-10.38.07:997][810]LogAudio: Display: Audio Device (ID: 14) registered with world 'NewMap'.
+[2024.03.29-10.38.07:997][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.29-10.38.07:999][810]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.38.08:000][810]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.38.08
+[2024.03.29-10.38.08:000][810]LogWorld: Bringing up level for play took: 0.000715
+[2024.03.29-10.38.08:001][810]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.29-10.38.08:002][810]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.38.08:002][810]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.38.08:011][810]PIE: Server logged in
+[2024.03.29-10.38.08:012][810]PIE: Play in editor total start time 0.108 seconds.
+[2024.03.29-10.38.08:015][810]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.38.08:015][810]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.38.08:334][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.38.08:335][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.38.08:336][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.38.08:336][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.38.08:336][829]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.38.18:133][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.38.18:134][989]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.38.18:153][989]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.38.18:153][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.38.18:158][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.38.18:164][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.38.18:173][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.38.18:173][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.03.29-10.38.18:173][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.29-10.38.18:175][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.29-10.38.18:190][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.29-10.38.18:341][990]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.29-10.38.23:936][627]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.38.23:939][627]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.39.11:628][755]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.39.11:659][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.29-10.39.13:034][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.39.13:039][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.39.13:039][907]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:39:13 PM)
+[2024.03.29-10.39.13:074][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.39.13:077][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003108s)
+[2024.03.29-10.39.13:077][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003169s)
+[2024.03.29-10.39.13:092][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.29-10.39.13:095][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.39.13:095][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.39.13:095][907]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.39.13:096][907]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.03.29-10.39.13:096][907]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.39.13:096][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.39.13:096][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.39.13:096][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.39.13:096][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.39.13:096][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.39.13:098][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.39.13:135][907]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.39.13:135][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.39.13:135][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.39.13:135][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.39.13:135][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.29-10.39.13:135][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2024.03.29-10.39.13:137][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.29-10.39.13:137][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.29-10.39.13:137][907]LogInit: FAudioDevice initialized with ID 15.
+[2024.03.29-10.39.13:137][907]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMap'.
+[2024.03.29-10.39.13:137][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.29-10.39.13:143][907]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.39.13:144][907]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.39.13
+[2024.03.29-10.39.13:144][907]LogWorld: Bringing up level for play took: 0.000724
+[2024.03.29-10.39.13:146][907]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.29-10.39.13:147][907]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.39.13:147][907]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.39.13:156][907]PIE: Server logged in
+[2024.03.29-10.39.13:157][907]PIE: Play in editor total start time 0.118 seconds.
+[2024.03.29-10.39.13:159][907]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.39.13:160][907]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: ================================================
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: Total job queries 85, among them cache hits 38 (44.71%)
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: Tracking 47 distinct input hashes that result in 41 distinct outputs (87.23%)
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: RAM used: 1.06 MiB of 1.60 GiB budget. Usage: 0.06%
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.29-10.39.35:093][507]LogShaderCompilers: Display: ================================================
+[2024.03.29-10.39.48:834][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.39.48:834][146]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.39.48:859][146]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.39.48:859][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.39.48:864][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.39.48:871][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.39.48:882][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.39.48:883][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.03.29-10.39.48:883][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.29-10.39.48:885][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.29-10.39.48:906][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.29-10.39.48:963][147]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.29-10.41.00:700][951]LogEditorTransaction: Undo Paste clipboard contents
+[2024.03.29-10.42.29:876][347]BlueprintLog: New page: Compile NewMap
+[2024.03.29-10.42.29:910][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.29-10.42.32:950][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.42.32:956][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.42.32:956][644]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:42:32 PM)
+[2024.03.29-10.42.32:984][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.42.32:986][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2024.03.29-10.42.32:987][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002618s)
+[2024.03.29-10.42.32:998][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.03.29-10.42.33:000][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.42.33:000][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.42.33:001][644]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.42.33:001][644]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2024.03.29-10.42.33:001][644]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.42.33:001][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.42.33:001][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.42.33:002][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.42.33:002][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.42.33:002][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.42.33:004][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.42.33:042][644]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.42.33:042][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.42.33:042][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.42.33:042][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.42.33:043][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.29-10.42.33:043][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2024.03.29-10.42.33:045][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.29-10.42.33:045][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.29-10.42.33:045][644]LogInit: FAudioDevice initialized with ID 16.
+[2024.03.29-10.42.33:045][644]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2024.03.29-10.42.33:045][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.29-10.42.33:047][644]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.42.33:048][644]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.42.33
+[2024.03.29-10.42.33:048][644]LogWorld: Bringing up level for play took: 0.000687
+[2024.03.29-10.42.33:049][644]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.03.29-10.42.33:050][644]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.42.33:050][644]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.42.33:060][644]PIE: Server logged in
+[2024.03.29-10.42.33:061][644]PIE: Play in editor total start time 0.105 seconds.
+[2024.03.29-10.42.33:063][644]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.42.33:063][644]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.42.33:387][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.42.33:388][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.42.33:389][662]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.42.45:014][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.42.45:014][  6]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.42.45:039][  6]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.42.45:039][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.42.45:045][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.42.45:049][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.42.45:060][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.42.45:060][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.03.29-10.42.45:060][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.29-10.42.45:062][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.29-10.42.45:077][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.29-10.42.45:245][  7]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.03.29-10.43.59:186][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.43.59:192][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.43.59:192][810]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:43:59 PM)
+[2024.03.29-10.43.59:214][810]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.43.59:217][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002643s)
+[2024.03.29-10.43.59:217][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002685s)
+[2024.03.29-10.43.59:232][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.29-10.43.59:235][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.43.59:236][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.43.59:236][810]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.43.59:236][810]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2024.03.29-10.43.59:236][810]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.43.59:236][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.43.59:236][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.43.59:237][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.43.59:237][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.43.59:237][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.43.59:239][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.43.59:276][810]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.43.59:277][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.43.59:277][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.43.59:277][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.43.59:277][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.29-10.43.59:277][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2024.03.29-10.43.59:279][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.29-10.43.59:279][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.29-10.43.59:279][810]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.29-10.43.59:279][810]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2024.03.29-10.43.59:279][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.29-10.43.59:282][810]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.43.59:282][810]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.43.59
+[2024.03.29-10.43.59:282][810]LogWorld: Bringing up level for play took: 0.000602
+[2024.03.29-10.43.59:284][810]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.03.29-10.43.59:285][810]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.43.59:285][810]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.43.59:295][810]PIE: Server logged in
+[2024.03.29-10.43.59:295][810]PIE: Play in editor total start time 0.104 seconds.
+[2024.03.29-10.43.59:299][810]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.43.59:299][810]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.43.59:601][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.43.59:602][832]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.44.27:484][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.44.27:484][163]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.44.27:510][163]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.44.27:510][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.44.27:515][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.44.27:520][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.44.27:532][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-10.44.27:533][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.29-10.44.27:533][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.29-10.44.27:535][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.29-10.44.27:541][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.44.27:551][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.29-10.44.27:663][164]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.03.29-10.44.38:345][388]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.44.38:349][388]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.45.11:637][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.45.11:642][ 64]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.29-10.45.11:642][ 64]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2024.03.29-10.45.11:688][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.29-10.45.11:692][ 64]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2024.03.29-10.45.11:692][ 64]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:45:11 PM)
+[2024.03.29-10.45.11:692][ 64]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.45.11:695][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002015s)
+[2024.03.29-10.45.11:695][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002044s)
+[2024.03.29-10.45.11:703][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.29-10.45.11:705][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.45.11:705][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.45.11:706][ 64]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.45.11:706][ 64]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2024.03.29-10.45.11:706][ 64]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.45.11:706][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.45.11:706][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.45.11:707][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.45.11:707][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.45.11:707][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.45.11:708][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.45.11:746][ 64]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.45.11:746][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.45.11:746][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.45.11:746][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.45.11:747][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.29-10.45.11:747][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2024.03.29-10.45.11:748][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.29-10.45.11:748][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.29-10.45.11:748][ 64]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.29-10.45.11:748][ 64]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2024.03.29-10.45.11:748][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.29-10.45.11:754][ 64]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.45.11:754][ 64]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.45.11
+[2024.03.29-10.45.11:754][ 64]LogWorld: Bringing up level for play took: 0.000775
+[2024.03.29-10.45.11:756][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.29-10.45.11:757][ 64]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.45.11:757][ 64]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.45.11:768][ 64]PIE: Server logged in
+[2024.03.29-10.45.11:769][ 64]PIE: Play in editor total start time 0.126 seconds.
+[2024.03.29-10.45.11:772][ 64]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.45.11:772][ 64]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.45.17:554][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.45.17:554][718]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.45.17:570][718]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.45.17:570][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.45.17:576][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.45.17:580][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.45.17:590][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.45.17:591][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.29-10.45.17:591][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.29-10.45.17:592][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.29-10.45.17:607][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.29-10.45.17:652][719]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.29-10.45.56:540][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.29-10.45.56:553][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto2
+[2024.03.29-10.45.56:554][311]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMap_Auto2A7AE9B8E42BAC4F039E9AD8055E4BA07.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2024.03.29-10.45.56:555][311]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/Autosaves/Game/NewMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.03.29-10.45.56:555][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.024
+[2024.03.29-10.45.56:555][311]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.03.29-10.47.50:735][936]Cmd: SELECT NONE
+[2024.03.29-10.50.34:367][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.50.34:374][710]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.29-10.50.34:374][710]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2024.03.29-10.50.34:440][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.29-10.50.34:445][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2024.03.29-10.50.34:446][710]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:50:34 PM)
+[2024.03.29-10.50.34:446][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.50.34:448][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002320s)
+[2024.03.29-10.50.34:448][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002352s)
+[2024.03.29-10.50.34:457][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.29-10.50.34:457][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.50.34:458][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.50.34:458][710]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.50.34:458][710]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2024.03.29-10.50.34:458][710]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.50.34:458][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.50.34:458][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.50.34:459][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.50.34:459][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.50.34:459][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.50.34:461][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.50.34:499][710]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.50.34:499][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.50.34:499][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.50.34:499][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.50.34:500][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.29-10.50.34:501][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2024.03.29-10.50.34:502][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.29-10.50.34:502][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.29-10.50.34:502][710]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.29-10.50.34:502][710]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewMap'.
+[2024.03.29-10.50.34:502][710]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.29-10.50.34:508][710]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.50.34:509][710]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.50.34
+[2024.03.29-10.50.34:509][710]LogWorld: Bringing up level for play took: 0.000704
+[2024.03.29-10.50.34:511][710]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.29-10.50.34:512][710]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.50.34:512][710]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.50.34:523][710]PIE: Server logged in
+[2024.03.29-10.50.34:523][710]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.29-10.50.34:526][710]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.50.34:526][710]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.50.34:770][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.50.34:771][722]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.50.43:285][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.50.43:285][687]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.50.43:306][687]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.50.43:306][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.50.43:311][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.50.43:315][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.50.43:326][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.50.43:327][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.29-10.50.43:327][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.29-10.50.43:329][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.29-10.50.43:344][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.29-10.50.43:495][688]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.29-10.52.04:586][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.29-10.52.04:592][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.52.04:651][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-10.52.04:676][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.29-10.52.04:688][ 37]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.03.29-10.52.04:689][ 37]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMap745415484DBDE7EFEC64C1B3C0FFDB5F.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap'
+[2024.03.29-10.52.04:696][ 37]LogFileHelpers: Saving map 'NewMap' took 0.045
+[2024.03.29-10.52.04:702][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 583 ms)
+[2024.03.29-10.52.04:703][ 37]AssetCheck: New page: Asset Save: NewMap
+[2024.03.29-10.52.04:703][ 37]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.03.29-10.52.11:760][882]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.03.29-10.52.11:760][882]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.03.29-10.52.27:604][215]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.52.27:607][215]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.52.29:998][492]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver
+[2024.03.29-10.52.29:999][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.52.29:999][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.52.56:714][341]LogSlate: Window 'My Blueprint' being destroyed
+[2024.03.29-10.52.56:718][341]LogSlate: Window 'My Blueprint' being destroyed
+[2024.03.29-10.53.18:946][704]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.53.18:946][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.53.18:960][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyWaterBodyRiver.MyWaterBodyRiver
+[2024.03.29-10.53.18:960][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.53.18:961][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: ================================================
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: Total job queries 92, among them cache hits 40 (43.48%)
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 45 distinct outputs (86.54%)
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: RAM used: 1.21 MiB of 1.60 GiB budget. Usage: 0.07%
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.29-10.53.28:616][569]LogShaderCompilers: Display: ================================================
+[2024.03.29-10.53.48:344][341]LogViewport: Scene viewport resized to 1226x867, mode Windowed.
+[2024.03.29-10.53.58:151][230]LogDerivedDataCache: C:/Users/PAA 2024/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5905 files in 7386 folders with total size 293 MiB.
+[2024.03.29-10.54.44:260][833]LogEditorViewport: Clicking Background
+[2024.03.29-10.54.56:371][254]LogViewport: Scene viewport resized to 335x166, mode Windowed.
+[2024.03.29-10.55.17:908][781]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.55.17:914][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-10.55.17:914][781]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:55:17 PM)
+[2024.03.29-10.55.17:934][781]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.55.17:937][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002567s)
+[2024.03.29-10.55.17:937][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002608s)
+[2024.03.29-10.55.17:959][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.29-10.55.17:962][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.55.17:962][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.55.17:962][781]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.55.17:962][781]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.03.29-10.55.17:962][781]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.55.17:962][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.55.17:962][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.55.17:962][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.55.17:962][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.55.17:962][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.55.17:965][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.55.18:005][781]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.55.18:005][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.55.18:005][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.55.18:005][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.55.18:005][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.29-10.55.18:005][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2024.03.29-10.55.18:007][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.29-10.55.18:007][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.29-10.55.18:007][781]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.29-10.55.18:007][781]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2024.03.29-10.55.18:007][781]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.29-10.55.18:010][781]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.55.18:010][781]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.55.18
+[2024.03.29-10.55.18:011][781]LogWorld: Bringing up level for play took: 0.000629
+[2024.03.29-10.55.18:012][781]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.03.29-10.55.18:013][781]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.55.18:013][781]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.55.18:022][781]PIE: Server logged in
+[2024.03.29-10.55.18:023][781]PIE: Play in editor total start time 0.11 seconds.
+[2024.03.29-10.55.18:026][781]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.55.18:026][781]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.55.18:327][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.55.18:328][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.55.18:329][803]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.55.48:496][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.55.48:496][287]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.55.48:511][287]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.55.48:511][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.55.48:515][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.55.48:520][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.55.48:530][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.55.48:530][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.29-10.55.48:530][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.29-10.55.48:532][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.29-10.55.48:545][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.29-10.55.48:672][288]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.03.29-10.57.33:927][691]LogViewport: Scene viewport resized to 1223x867, mode Windowed.
+[2024.03.29-10.57.33:940][692]LogViewport: Scene viewport resized to 1214x867, mode Windowed.
+[2024.03.29-10.57.33:979][693]LogViewport: Scene viewport resized to 1183x867, mode Windowed.
+[2024.03.29-10.57.33:994][694]LogViewport: Scene viewport resized to 1166x867, mode Windowed.
+[2024.03.29-10.57.34:008][695]LogViewport: Scene viewport resized to 1151x867, mode Windowed.
+[2024.03.29-10.57.34:022][696]LogViewport: Scene viewport resized to 1143x867, mode Windowed.
+[2024.03.29-10.57.34:037][697]LogViewport: Scene viewport resized to 1133x867, mode Windowed.
+[2024.03.29-10.57.34:051][698]LogViewport: Scene viewport resized to 1124x867, mode Windowed.
+[2024.03.29-10.57.34:068][699]LogViewport: Scene viewport resized to 1113x867, mode Windowed.
+[2024.03.29-10.57.34:082][700]LogViewport: Scene viewport resized to 1103x867, mode Windowed.
+[2024.03.29-10.57.34:097][701]LogViewport: Scene viewport resized to 1097x867, mode Windowed.
+[2024.03.29-10.57.34:110][702]LogViewport: Scene viewport resized to 1084x867, mode Windowed.
+[2024.03.29-10.57.34:125][703]LogViewport: Scene viewport resized to 1068x867, mode Windowed.
+[2024.03.29-10.57.34:139][704]LogViewport: Scene viewport resized to 1049x867, mode Windowed.
+[2024.03.29-10.57.34:154][705]LogViewport: Scene viewport resized to 1027x867, mode Windowed.
+[2024.03.29-10.57.34:169][706]LogViewport: Scene viewport resized to 1015x867, mode Windowed.
+[2024.03.29-10.57.34:183][707]LogViewport: Scene viewport resized to 990x867, mode Windowed.
+[2024.03.29-10.57.34:197][708]LogViewport: Scene viewport resized to 965x867, mode Windowed.
+[2024.03.29-10.57.34:212][709]LogViewport: Scene viewport resized to 941x867, mode Windowed.
+[2024.03.29-10.57.34:227][710]LogViewport: Scene viewport resized to 920x867, mode Windowed.
+[2024.03.29-10.57.34:241][711]LogViewport: Scene viewport resized to 908x867, mode Windowed.
+[2024.03.29-10.57.34:254][712]LogViewport: Scene viewport resized to 891x867, mode Windowed.
+[2024.03.29-10.57.34:270][713]LogViewport: Scene viewport resized to 879x867, mode Windowed.
+[2024.03.29-10.57.34:284][714]LogViewport: Scene viewport resized to 874x867, mode Windowed.
+[2024.03.29-10.57.34:299][715]LogViewport: Scene viewport resized to 866x867, mode Windowed.
+[2024.03.29-10.57.34:313][716]LogViewport: Scene viewport resized to 863x867, mode Windowed.
+[2024.03.29-10.57.34:327][717]LogViewport: Scene viewport resized to 856x867, mode Windowed.
+[2024.03.29-10.57.34:340][718]LogViewport: Scene viewport resized to 852x867, mode Windowed.
+[2024.03.29-10.57.34:355][719]LogViewport: Scene viewport resized to 845x867, mode Windowed.
+[2024.03.29-10.57.34:369][720]LogViewport: Scene viewport resized to 842x867, mode Windowed.
+[2024.03.29-10.57.34:384][721]LogViewport: Scene viewport resized to 831x867, mode Windowed.
+[2024.03.29-10.57.34:398][722]LogViewport: Scene viewport resized to 824x867, mode Windowed.
+[2024.03.29-10.57.34:412][723]LogViewport: Scene viewport resized to 815x867, mode Windowed.
+[2024.03.29-10.57.34:427][724]LogViewport: Scene viewport resized to 809x867, mode Windowed.
+[2024.03.29-10.57.34:441][725]LogViewport: Scene viewport resized to 806x867, mode Windowed.
+[2024.03.29-10.57.34:455][726]LogViewport: Scene viewport resized to 802x867, mode Windowed.
+[2024.03.29-10.57.34:470][727]LogViewport: Scene viewport resized to 797x867, mode Windowed.
+[2024.03.29-10.57.34:483][728]LogViewport: Scene viewport resized to 793x867, mode Windowed.
+[2024.03.29-10.57.34:498][729]LogViewport: Scene viewport resized to 788x867, mode Windowed.
+[2024.03.29-10.57.34:512][730]LogViewport: Scene viewport resized to 786x867, mode Windowed.
+[2024.03.29-10.57.34:527][731]LogViewport: Scene viewport resized to 780x867, mode Windowed.
+[2024.03.29-10.57.34:540][732]LogViewport: Scene viewport resized to 777x867, mode Windowed.
+[2024.03.29-10.57.34:555][733]LogViewport: Scene viewport resized to 772x867, mode Windowed.
+[2024.03.29-10.57.34:570][734]LogViewport: Scene viewport resized to 770x867, mode Windowed.
+[2024.03.29-10.57.34:584][735]LogViewport: Scene viewport resized to 765x867, mode Windowed.
+[2024.03.29-10.57.34:599][736]LogViewport: Scene viewport resized to 762x867, mode Windowed.
+[2024.03.29-10.57.34:613][737]LogViewport: Scene viewport resized to 756x867, mode Windowed.
+[2024.03.29-10.57.34:626][738]LogViewport: Scene viewport resized to 754x867, mode Windowed.
+[2024.03.29-10.57.34:640][739]LogViewport: Scene viewport resized to 751x867, mode Windowed.
+[2024.03.29-10.57.34:664][741]LogViewport: Scene viewport resized to 749x867, mode Windowed.
+[2024.03.29-10.57.34:677][742]LogViewport: Scene viewport resized to 748x867, mode Windowed.
+[2024.03.29-10.57.34:692][743]LogViewport: Scene viewport resized to 745x867, mode Windowed.
+[2024.03.29-10.57.34:706][744]LogViewport: Scene viewport resized to 744x867, mode Windowed.
+[2024.03.29-10.57.34:730][746]LogViewport: Scene viewport resized to 742x867, mode Windowed.
+[2024.03.29-10.57.34:753][748]LogViewport: Scene viewport resized to 739x867, mode Windowed.
+[2024.03.29-10.57.34:767][749]LogViewport: Scene viewport resized to 740x867, mode Windowed.
+[2024.03.29-10.57.34:781][750]LogViewport: Scene viewport resized to 736x867, mode Windowed.
+[2024.03.29-10.57.34:795][751]LogViewport: Scene viewport resized to 735x867, mode Windowed.
+[2024.03.29-10.57.34:810][752]LogViewport: Scene viewport resized to 729x867, mode Windowed.
+[2024.03.29-10.57.34:833][754]LogViewport: Scene viewport resized to 724x867, mode Windowed.
+[2024.03.29-10.57.34:857][756]LogViewport: Scene viewport resized to 719x867, mode Windowed.
+[2024.03.29-10.57.34:872][757]LogViewport: Scene viewport resized to 717x867, mode Windowed.
+[2024.03.29-10.57.34:887][758]LogViewport: Scene viewport resized to 711x867, mode Windowed.
+[2024.03.29-10.57.34:902][759]LogViewport: Scene viewport resized to 706x867, mode Windowed.
+[2024.03.29-10.57.34:917][760]LogViewport: Scene viewport resized to 700x867, mode Windowed.
+[2024.03.29-10.57.34:931][761]LogViewport: Scene viewport resized to 698x867, mode Windowed.
+[2024.03.29-10.57.34:945][762]LogViewport: Scene viewport resized to 695x867, mode Windowed.
+[2024.03.29-10.57.34:958][763]LogViewport: Scene viewport resized to 694x867, mode Windowed.
+[2024.03.29-10.57.35:007][768]LogViewport: Scene viewport resized to 692x867, mode Windowed.
+[2024.03.29-10.58.12:155][849]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.58.12:161][849]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.59.44:307][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-10.59.44:314][371]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.29-10.59.44:314][371]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2024.03.29-10.59.44:359][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.29-10.59.44:364][371]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2024.03.29-10.59.44:364][371]PIE: New page: PIE session: NewMap (Mar 29, 2024, 12:59:44 PM)
+[2024.03.29-10.59.44:364][371]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-10.59.44:367][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002327s)
+[2024.03.29-10.59.44:367][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002358s)
+[2024.03.29-10.59.44:376][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.29-10.59.44:377][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-10.59.44:377][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-10.59.44:378][371]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-10.59.44:378][371]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2024.03.29-10.59.44:378][371]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-10.59.44:378][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-10.59.44:378][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-10.59.44:379][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-10.59.44:379][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-10.59.44:379][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-10.59.44:380][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-10.59.44:419][371]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-10.59.44:419][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-10.59.44:419][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-10.59.44:419][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-10.59.44:420][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.29-10.59.44:420][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2024.03.29-10.59.44:422][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.29-10.59.44:422][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.29-10.59.44:422][371]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.29-10.59.44:422][371]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2024.03.29-10.59.44:422][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.29-10.59.44:427][371]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-10.59.44:428][371]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-11.59.44
+[2024.03.29-10.59.44:428][371]LogWorld: Bringing up level for play took: 0.000894
+[2024.03.29-10.59.44:430][371]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.03.29-10.59.44:431][371]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-10.59.44:431][371]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-10.59.44:441][371]PIE: Server logged in
+[2024.03.29-10.59.44:441][371]PIE: Play in editor total start time 0.129 seconds.
+[2024.03.29-10.59.44:445][371]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-10.59.44:445][371]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.59.44:796][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.DilatedWaterInfoMeshComponent' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_0' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_1' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_2' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_3' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_4' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_5' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_6' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_7' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_8' but Mobility is Static.
+[2024.03.29-10.59.44:797][388]PIE: Warning: Calling SetStaticMesh on '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.SplineMeshComponent_9' but Mobility is Static.
+[2024.03.29-10.59.50:455][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.59.50:455][ 27]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-10.59.50:474][ 27]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-10.59.50:475][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.59.50:480][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-10.59.50:484][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-10.59.50:494][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-10.59.50:494][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.29-10.59.50:494][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.29-10.59.50:496][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.29-10.59.50:511][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.29-10.59.50:654][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.03.29-10.59.52:976][269]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-10.59.52:980][269]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-11.01.00:445][460]BlueprintLog: New page: Compile NewMap
+[2024.03.29-11.01.00:479][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.29-11.01.01:621][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-11.01.01:627][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-11.01.01:627][559]PIE: New page: PIE session: NewMap (Mar 29, 2024, 1:01:01 PM)
+[2024.03.29-11.01.01:654][559]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-11.01.01:658][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003212s)
+[2024.03.29-11.01.01:658][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003287s)
+[2024.03.29-11.01.01:668][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.29-11.01.01:671][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-11.01.01:672][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-11.01.01:672][559]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-11.01.01:672][559]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.03.29-11.01.01:672][559]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-11.01.01:672][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-11.01.01:672][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-11.01.01:672][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-11.01.01:672][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-11.01.01:672][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-11.01.01:674][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-11.01.01:712][559]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-11.01.01:712][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-11.01.01:712][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-11.01.01:712][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-11.01.01:713][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.29-11.01.01:713][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.03.29-11.01.01:715][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.29-11.01.01:715][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.29-11.01.01:715][559]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.29-11.01.01:715][559]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewMap'.
+[2024.03.29-11.01.01:715][559]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.29-11.01.01:721][559]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-11.01.01:722][559]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-12.01.01
+[2024.03.29-11.01.01:722][559]LogWorld: Bringing up level for play took: 0.000824
+[2024.03.29-11.01.01:724][559]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.29-11.01.01:725][559]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-11.01.01:725][559]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-11.01.01:743][559]PIE: Server logged in
+[2024.03.29-11.01.01:744][559]PIE: Play in editor total start time 0.117 seconds.
+[2024.03.29-11.01.01:747][559]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.01.01:747][559]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.01.01:747][559]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.01.01:747][559]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.01.06:585][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.01.06:585][ 78]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-11.01.06:607][ 78]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-11.01.06:607][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.01.06:612][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-11.01.06:616][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.01.06:625][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.01.06:625][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.29-11.01.06:625][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.29-11.01.06:627][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.29-11.01.06:642][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.29-11.01.06:687][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.29-11.01.13:094][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-11.01.13:099][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-11.01.13:099][836]PIE: New page: PIE session: NewMap (Mar 29, 2024, 1:01:13 PM)
+[2024.03.29-11.01.13:134][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-11.01.13:138][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004089s)
+[2024.03.29-11.01.13:138][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004155s)
+[2024.03.29-11.01.13:153][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.29-11.01.13:156][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-11.01.13:156][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-11.01.13:157][836]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-11.01.13:157][836]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2024.03.29-11.01.13:157][836]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-11.01.13:157][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-11.01.13:157][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-11.01.13:157][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-11.01.13:157][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-11.01.13:157][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-11.01.13:159][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-11.01.13:197][836]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-11.01.13:197][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-11.01.13:197][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-11.01.13:197][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-11.01.13:198][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.29-11.01.13:198][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2024.03.29-11.01.13:200][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.29-11.01.13:200][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.29-11.01.13:200][836]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.29-11.01.13:200][836]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewMap'.
+[2024.03.29-11.01.13:200][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.29-11.01.13:202][836]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-11.01.13:203][836]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-12.01.13
+[2024.03.29-11.01.13:203][836]LogWorld: Bringing up level for play took: 0.000584
+[2024.03.29-11.01.13:205][836]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.03.29-11.01.13:206][836]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-11.01.13:206][836]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-11.01.13:222][836]PIE: Server logged in
+[2024.03.29-11.01.13:223][836]PIE: Play in editor total start time 0.125 seconds.
+[2024.03.29-11.01.13:227][836]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.01.13:227][836]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.01.13:227][836]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.01.13:227][836]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.01.24:444][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.01.24:444][162]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-11.01.24:465][162]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-11.01.24:465][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.01.24:470][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-11.01.24:475][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.01.24:483][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-11.01.24:483][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.29-11.01.24:483][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.29-11.01.24:485][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.29-11.01.24:491][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.01.24:502][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.29-11.01.24:545][163]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.03.29-11.01.51:371][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-11.01.51:377][824]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.29-11.01.51:378][824]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2024.03.29-11.01.51:380][824]LogBlueprint: Error: [AssetLog] C:\Users\PAA 2024\Documents\GitHub\vr-flood-visualization\src\Unreal-5.3\Content\NewMap.umap: [Compiler] This blueprint (self) is not a WaterBodyComponent, therefore ' Target ' must have a connection.
+[2024.03.29-11.01.51:425][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.29-11.01.51:429][824]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2024.03.29-11.01.51:429][824]BlueprintLog: Warning: Blueprint failed to compile:  NewMap
+[2024.03.29-11.01.56:969][824]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.03.29-11.01.59:108][993]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-11.01.59:113][993]LogSlate: Window 'Message Log' being destroyed
+[2024.03.29-11.02.22:773][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.29-11.02.22:779][290]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.29-11.02.22:779][290]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2024.03.29-11.02.22:820][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.29-11.02.22:823][290]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2024.03.29-11.02.22:823][290]PIE: New page: PIE session: NewMap (Mar 29, 2024, 1:02:22 PM)
+[2024.03.29-11.02.22:823][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.03.29-11.02.22:825][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002211s)
+[2024.03.29-11.02.22:825][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002239s)
+[2024.03.29-11.02.22:834][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.29-11.02.22:835][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.29-11.02.22:835][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-11.02.22:836][290]LogAIModule: Creating AISystem for world NewMap
+[2024.03.29-11.02.22:836][290]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2024.03.29-11.02.22:836][290]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.29-11.02.22:836][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-11.02.22:836][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-11.02.22:836][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-11.02.22:836][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-11.02.22:836][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-11.02.22:838][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-11.02.22:875][290]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.03.29-11.02.22:876][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-11.02.22:876][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-11.02.22:876][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-11.02.22:876][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.29-11.02.22:876][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2024.03.29-11.02.22:878][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.29-11.02.22:878][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.29-11.02.22:878][290]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.29-11.02.22:878][290]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2024.03.29-11.02.22:878][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.29-11.02.22:884][290]LogLoad: Game class is 'GameModeBase'
+[2024.03.29-11.02.22:884][290]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.03.29-12.02.22
+[2024.03.29-11.02.22:884][290]LogWorld: Bringing up level for play took: 0.000789
+[2024.03.29-11.02.22:886][290]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.29-11.02.22:887][290]LogCesium: Loading tileset for asset ID 1
+[2024.03.29-11.02.22:887][290]LogCesium: Loading tileset for asset ID 1 done
+[2024.03.29-11.02.22:904][290]PIE: Server logged in
+[2024.03.29-11.02.22:905][290]PIE: Play in editor total start time 0.126 seconds.
+[2024.03.29-11.02.22:908][290]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.02.22:908][290]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_1.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.02.22:908][290]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoDilatedMesh_1 being ready before playing
+[2024.03.29-11.02.22:908][290]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.MyWaterBodyRiver_C_0.WaterInfoMesh_0 being ready before playing
+[2024.03.29-11.02.38:795][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.02.38:795][152]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.03.29-11.02.38:817][152]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-11.02.38:818][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.02.38:822][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-11.02.38:827][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-11.02.38:836][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-11.02.38:837][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.29-11.02.38:837][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.29-11.02.38:839][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.29-11.02.38:844][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-11.02.38:854][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.29-11.02.38:892][153]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.29-11.02.46:097][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-11.02.46:154][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.29-11.02.46:178][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.29-11.02.46:194][753]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.03.29-11.02.46:195][753]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/NewMapA86C023741EF91D4348E92BBC6ABAC7B.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/NewMap.umap'
+[2024.03.29-11.02.46:201][753]LogFileHelpers: Saving map 'NewMap' took 0.048
+[2024.03.29-11.02.46:213][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 699 ms)
+[2024.03.29-11.02.46:214][753]AssetCheck: New page: Asset Save: NewMap
+[2024.03.29-11.02.46:214][753]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
