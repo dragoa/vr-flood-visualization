@@ -1552,3 +1552,84 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.10-11.31.08:428][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 195 ms)
 [2024.04.10-11.31.08:429][247]AssetCheck: New page: Asset Save: NewMap
 [2024.04.10-11.31.08:429][247]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.04.10-11.31.53:084][817]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_3...
+[2024.04.10-11.31.53:084][817]LogStaticMesh: Display: Building static mesh WaterInfoMesh_2...
+[2024.04.10-11.31.53:085][817]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoDilatedMesh_3
+[2024.04.10-11.31.53:085][817]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoMesh_2
+[2024.04.10-11.31.55:175][ 10]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_7...
+[2024.04.10-11.31.55:175][ 10]LogStaticMesh: Display: Building static mesh WaterInfoMesh_6...
+[2024.04.10-11.31.55:176][ 10]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoMesh_6
+[2024.04.10-11.31.55:176][ 10]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoDilatedMesh_7
+[2024.04.10-11.32.02:238][680]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_15...
+[2024.04.10-11.32.02:238][680]LogStaticMesh: Display: Building static mesh WaterInfoMesh_14...
+[2024.04.10-11.32.02:240][680]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoDilatedMesh_15
+[2024.04.10-11.32.02:240][680]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoMesh_14
+[2024.04.10-11.32.11:078][538]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_23...
+[2024.04.10-11.32.11:078][538]LogStaticMesh: Display: Building static mesh WaterInfoMesh_22...
+[2024.04.10-11.32.11:079][538]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoMesh_22
+[2024.04.10-11.32.11:079][538]LogStaticMesh: Built static mesh [0.00s] /Engine/Transient.World_3:PersistentLevel.MyWaterBodyLake_C_0.WaterInfoDilatedMesh_23
+[2024.04.10-11.32.16:625][ 65]BlueprintLog: New page: Compile MyWaterBodyLake
+[2024.04.10-11.32.16:661][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.10-11.32.17:323][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-11.32.17:388][119]LogSavePackage: Moving output files for package: /Game/Blueprints/MyWaterBodyLake
+[2024.04.10-11.32.17:388][119]LogSavePackage: Moving '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Saved/MyWaterBodyLakeE10BB41543AA974C7514C2B7C6CD338A.tmp' to '../../../../../../Users/PAA 2024/Documents/GitHub/vr-flood-visualization/src/Unreal-5.3/Content/Blueprints/MyWaterBodyLake.uasset'
+[2024.04.10-11.32.17:394][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 267 ms)
+[2024.04.10-11.32.17:397][119]AssetCheck: New page: Asset Save: MyWaterBodyLake
+[2024.04.10-11.32.17:397][119]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MyWaterBodyLake.MyWaterBodyLake
+[2024.04.10-11.32.19:991][389]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.04.10-11.32.19:996][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-11.32.19:996][389]PIE: New page: SIE session: NewMap (Apr 10, 2024, 3:32:19 PM)
+[2024.04.10-11.32.19:996][389]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.04.10-11.32.19:999][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002374s)
+[2024.04.10-11.32.19:999][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002407s)
+[2024.04.10-11.32.20:008][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.10-11.32.20:009][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-11.32.20:009][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-11.32.20:010][389]LogAIModule: Creating AISystem for world NewMap
+[2024.04.10-11.32.20:010][389]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.04.10-11.32.20:010][389]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-11.32.20:010][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-11.32.20:010][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-11.32.20:010][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-11.32.20:011][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-11.32.20:011][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-11.32.20:012][389]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-11.32.20:051][389]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.10-11.32.20:051][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-11.32.20:052][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-11.32.20:052][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-11.32.20:053][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.10-11.32.20:053][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2024.04.10-11.32.20:054][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.10-11.32.20:054][389]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.10-11.32.20:054][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.10-11.32.20:054][389]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewMap'.
+[2024.04.10-11.32.20:054][389]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.10-11.32.20:056][389]LogLoad: Game class is 'GameModeBase'
+[2024.04.10-11.32.20:058][389]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.04.10-13.32.20
+[2024.04.10-11.32.20:058][389]LogWorld: Bringing up level for play took: 0.000715
+[2024.04.10-11.32.20:059][389]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.10-11.32.20:060][389]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.10-11.32.20:060][389]LogCesium: Loading tileset for asset ID 1
+[2024.04.10-11.32.20:061][389]LogCesium: Loading tileset for asset ID 1 done
+[2024.04.10-11.32.20:068][389]PIE: Server logged in
+[2024.04.10-11.32.20:069][389]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.10-11.32.28:689][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-11.32.28:689][ 26]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.04.10-11.32.28:697][ 26]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-11.32.28:697][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-11.32.28:700][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-11.32.28:704][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-11.32.28:711][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-11.32.28:712][ 26]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.10-11.32.28:712][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.10-11.32.28:714][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.10-11.32.28:720][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-11.32.28:725][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.10-11.32.28:771][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_10
